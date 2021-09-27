@@ -867,7 +867,7 @@ export default class Compress extends Component<Props, State> {
         typeLabel={
           side.latestSettings.encoderState
             ? encoderMap[side.latestSettings.encoderState.type].meta.label
-            : 'Original Image'
+            : '原图片'
         }
       />
     ));

@@ -43,13 +43,13 @@ const demos = [
     url: deviceScreen,
     iconUrl: deviceScreenIcon,
   },
-  {
-    description: 'SVG icon',
-    size: '13k',
-    filename: 'squoosh.svg',
-    url: logo,
-    iconUrl: logoIcon,
-  },
+  // {
+  //   description: 'SVG icon',
+  //   size: '13k',
+  //   filename: 'squoosh.svg',
+  //   url: logo,
+  //   iconUrl: logoIcon,
+  // },
 ] as const;
 
 const blobAnimImport =
@@ -205,19 +205,16 @@ export default class Intro extends Component<Props, State> {
           type="file"
           onChange={this.onFileChange}
         />
-        <h3
+        <div
           style={{
             paddingTop: '20px',
-            paddingBottom: '0px',
-            marginBottom: '0px',
+            marginTop: 0,
             textAlign: 'center',
+            fontSize: '1.4em',
           }}
         >
-          制图机单图片处理引擎
-        </h3>
-        <p style={{ paddingTop: '20px', marginTop: 0, textAlign: 'center' }}>
           制图机单图片处理引擎无需登录，不上传图片到服务器，请放心使用
-        </p>
+        </div>
 
         <div class={style.main}>
           {!__PRERENDER__ && (
@@ -286,7 +283,7 @@ export default class Intro extends Component<Props, State> {
             />
           </svg>
           <div class={style.contentPadding}>
-            <p class={style.demoTitle}>或 尝试 以下图片:</p>
+            <p class={style.demoTitle}>或直接使用以下图片体验:</p>
             <ul class={style.demos}>
               {demos.map((demo, i) => (
                 <li>
