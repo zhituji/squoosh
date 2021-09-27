@@ -158,34 +158,6 @@ export default class Intro extends Component<Props, State> {
     ga('send', 'event', gaEventInfo);
   };
 
-  private onInstallClick = async (event: Event) => {
-    // Get the deferred beforeinstallprompt event
-    const beforeInstallEvent = this.state.beforeInstallEvent;
-    // If there's no deferred prompt, bail.
-    if (!beforeInstallEvent) return;
-
-    this.installingViaButton = true;
-
-    // Show the browser install prompt
-    beforeInstallEvent.prompt();
-
-    // Wait for the user to accept or dismiss the install prompt
-    const { outcome } = await beforeInstallEvent.userChoice;
-    // Send the analytics data
-    const gaEventInfo = {
-      eventCategory: 'pwa-install',
-      eventAction: 'promo-clicked',
-      eventLabel: installButtonSource,
-      eventValue: outcome === 'accepted' ? 1 : 0,
-    };
-    ga('send', 'event', gaEventInfo);
-
-    // If the prompt was dismissed, we aren't going to install via the button.
-    if (outcome === 'dismissed') {
-      this.installingViaButton = false;
-    }
-  };
-
   private onAppInstalled = () => {
     // We don't need the install button, if it's shown
     this.setState({ beforeInstallEvent: undefined });
@@ -233,6 +205,20 @@ export default class Intro extends Component<Props, State> {
           type="file"
           onChange={this.onFileChange}
         />
+        <h3
+          style={{
+            paddingTop: '20px',
+            paddingBottom: '0px',
+            marginBottom: '0px',
+            textAlign: 'center',
+          }}
+        >
+          制图机单图片处理引擎
+        </h3>
+        <p style={{ paddingTop: '20px', marginTop: 0, textAlign: 'center' }}>
+          制图机单图片处理引擎无需登录，不上传图片到服务器，请放心使用
+        </p>
+
         <div class={style.main}>
           {!__PRERENDER__ && (
             <canvas
@@ -240,15 +226,6 @@ export default class Intro extends Component<Props, State> {
               class={style.blobCanvas}
             />
           )}
-          <h1 class={style.logoContainer}>
-            <img
-              class={style.logo}
-              src={logoWithText}
-              alt="Squoosh"
-              width="539"
-              height="162"
-            />
-          </h1>
           <div class={style.loadImg}>
             {showBlobSVG && (
               <svg
@@ -285,13 +262,13 @@ export default class Intro extends Component<Props, State> {
                 </svg>
               </button>
               <div>
-                <span class={style.dropText}>Drop </span>OR{' '}
+                <span class={style.dropText}>拖拽 </span>或{' '}
                 {supportsClipboardAPI ? (
                   <button class={style.pasteBtn} onClick={this.onPasteClick}>
-                    Paste
+                    粘帖
                   </button>
                 ) : (
-                  'Paste'
+                  '粘帖'
                 )}
               </div>
             </div>
@@ -309,9 +286,7 @@ export default class Intro extends Component<Props, State> {
             />
           </svg>
           <div class={style.contentPadding}>
-            <p class={style.demoTitle}>
-              Or <strong>try one</strong> of these:
-            </p>
+            <p class={style.demoTitle}>或 尝试 以下图片:</p>
             <ul class={style.demos}>
               {demos.map((demo, i) => (
                 <li>
@@ -349,121 +324,6 @@ export default class Intro extends Component<Props, State> {
             />
           </svg>
         </div>
-
-        <section class={style.info}>
-          <div class={style.infoContainer}>
-            <SlideOnScroll>
-              <div class={style.infoContent}>
-                <div class={style.infoTextWrapper}>
-                  <h2 class={style.infoTitle}>Small</h2>
-                  <p class={style.infoCaption}>
-                    Smaller images mean faster load times. Squoosh can reduce
-                    file size and maintain high quality.
-                  </p>
-                </div>
-                <div class={style.infoImgWrapper}>
-                  <img
-                    class={style.infoImg}
-                    src={smallSectionAsset}
-                    alt="silhouette of a large 1.4 megabyte image shrunk into a smaller 80 kilobyte image"
-                    width="536"
-                    height="522"
-                  />
-                </div>
-              </div>
-            </SlideOnScroll>
-          </div>
-        </section>
-
-        <section class={style.info}>
-          <div class={style.infoContainer}>
-            <SlideOnScroll>
-              <div class={style.infoContent}>
-                <div class={style.infoTextWrapper}>
-                  <h2 class={style.infoTitle}>Simple</h2>
-                  <p class={style.infoCaption}>
-                    Open your image, inspect the differences, then save
-                    instantly. Feeling adventurous? Adjust the settings for even
-                    smaller files.
-                  </p>
-                </div>
-                <div class={style.infoImgWrapper}>
-                  <img
-                    class={style.infoImg}
-                    src={simpleSectionAsset}
-                    alt="grid of multiple shrunk images displaying various options"
-                    width="538"
-                    height="384"
-                  />
-                </div>
-              </div>
-            </SlideOnScroll>
-          </div>
-        </section>
-
-        <section class={style.info}>
-          <div class={style.infoContainer}>
-            <SlideOnScroll>
-              <div class={style.infoContent}>
-                <div class={style.infoTextWrapper}>
-                  <h2 class={style.infoTitle}>Secure</h2>
-                  <p class={style.infoCaption}>
-                    Worried about privacy? Images never leave your device since
-                    Squoosh does all the work locally.
-                  </p>
-                </div>
-                <div class={style.infoImgWrapper}>
-                  <img
-                    class={style.infoImg}
-                    src={secureSectionAsset}
-                    alt="silhouette of a cloud with a 'no' symbol on top"
-                    width="498"
-                    height="333"
-                  />
-                </div>
-              </div>
-            </SlideOnScroll>
-          </div>
-        </section>
-
-        <footer class={style.footer}>
-          <div class={style.footerContainer}>
-            <svg viewBox="0 0 1920 79" class={style.topWave}>
-              <path
-                d="M0 59l64-11c64-11 192-34 320-43s256-5 384 4 256 23 384 34 256 21 384 14 256-30 320-41l64-11v94H0z"
-                class={style.footerWave}
-              />
-            </svg>
-            <div class={style.footerPadding}>
-              <footer class={style.footerItems}>
-                <a
-                  class={style.footerLink}
-                  href="https://github.com/GoogleChromeLabs/squoosh/blob/dev/README.md#privacy"
-                >
-                  Privacy
-                </a>
-                <a
-                  class={style.footerLink}
-                  href="https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli"
-                >
-                  Squoosh CLI
-                </a>
-                <a
-                  class={style.footerLinkWithLogo}
-                  href="https://github.com/GoogleChromeLabs/squoosh"
-                >
-                  <img src={githubLogo} alt="" width="10" height="10" />
-                  Source on Github
-                </a>
-              </footer>
-            </div>
-          </div>
-        </footer>
-        {beforeInstallEvent && (
-          <button class={style.installBtn} onClick={this.onInstallClick}>
-            Install
-          </button>
-        )}
       </div>
     );
   }
