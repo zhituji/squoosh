@@ -3,7 +3,7 @@ module.exports = {
     {
       name: 'squoosh',
       script: './node_modules/serve/bin/serve.js',
-      args: ' --config ../../../serve.json ./build',
+      args: '--listen=5101 --config ../../../serve.json ./build',
       instances: 2,
       exec_mode: 'cluster',
       // env: {
