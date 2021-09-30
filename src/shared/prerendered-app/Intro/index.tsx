@@ -214,6 +214,9 @@ export default class Intro extends Component<Props, State> {
           }}
         >
           制图机单图片处理引擎无需登录，不上传图片到服务器，请放心使用
+          <p style={{ fontSize: '0.8em' }}>
+            如需使用批量处理和图片工作流功能，登录或注册帐号
+          </p>
         </div>
 
         <div class={style.main}>
