@@ -863,3 +863,843 @@ Info 496  [09:26:35.729] Different program with same set of files:: structureIsR
 Info 497  [09:26:35.730] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
 Info 498  [09:26:35.741] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 58 structureChanged: false Elapsed: 10.646252000005916ms
 Info 499  [09:26:35.741] Different program with same set of files:: structureIsReused:: 2
+Info 500  [13:12:19.235] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 501  [13:12:19.260] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 59 structureChanged: false Elapsed: 25.543586999177933ms
+Info 502  [13:12:19.260] Different program with same set of files:: structureIsReused:: 2
+Info 503  [13:12:19.534] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 504  [13:12:19.559] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 60 structureChanged: false Elapsed: 24.09805299900472ms
+Info 505  [13:12:19.559] Different program with same set of files:: structureIsReused:: 2
+Info 506  [13:12:21.325] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 507  [13:12:21.333] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 61 structureChanged: false Elapsed: 7.939973998814821ms
+Info 508  [13:12:21.333] Different program with same set of files:: structureIsReused:: 2
+Info 509  [13:12:21.336] getCompletionData: Get current token: 0.022752000018954277
+Info 510  [13:12:21.336] getCompletionData: Is inside comment: 0.006492000073194504
+Info 511  [13:12:21.336] getCompletionData: Get previous token 1: 0.052125999704003334
+Info 512  [13:12:21.336] getCompletionsAtPosition: isCompletionListBlocker: 0.2955019995570183
+Info 513  [13:12:21.336] Returning an empty list because completion was requested in an invalid position.
+Info 514  [13:12:21.337] getCompletionData: Get current token: 0.008999001234769821
+Info 515  [13:12:21.337] getCompletionData: Is inside comment: 0.00232899934053421
+Info 516  [13:12:21.337] getCompletionData: Get previous token 1: 0.022936999797821045
+Info 517  [13:12:21.337] getCompletionsAtPosition: isCompletionListBlocker: 0.01260799914598465
+Info 518  [13:12:21.337] Returning an empty list because completion was requested in an invalid position.
+Info 519  [13:12:21.379] getCompletionData: Get current token: 0.026207998394966125
+Info 520  [13:12:21.379] getCompletionData: Is inside comment: 0.007640000432729721
+Info 521  [13:12:21.379] getCompletionData: Get previous token 1: 0.06090099923312664
+Info 522  [13:12:21.379] getCompletionsAtPosition: isCompletionListBlocker: 0.031446000561118126
+Info 523  [13:12:21.379] Returning an empty list because completion was requested in an invalid position.
+Info 524  [13:12:22.066] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 525  [13:12:22.084] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 62 structureChanged: false Elapsed: 18.018834998831153ms
+Info 526  [13:12:22.084] Different program with same set of files:: structureIsReused:: 2
+Info 527  [13:12:23.226] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 528  [13:12:23.235] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 63 structureChanged: false Elapsed: 8.51014499925077ms
+Info 529  [13:12:23.235] Different program with same set of files:: structureIsReused:: 2
+Info 530  [13:12:23.235] getCompletionData: Get current token: 0.01769699901342392
+Info 531  [13:12:23.235] getCompletionData: Is inside comment: 0.004746999591588974
+Info 532  [13:12:23.236] getCompletionData: Get previous token 1: 0.05722299963235855
+Info 533  [13:12:23.236] getCompletionsAtPosition: isCompletionListBlocker: 0.08265900053083897
+Info 534  [13:12:23.236] Returning an empty list because completion was requested in an invalid position.
+Info 535  [13:12:23.239] getCompletionData: Get current token: 0.012268999591469765
+Info 536  [13:12:23.239] getCompletionData: Is inside comment: 0.005932999774813652
+Info 537  [13:12:23.239] getCompletionData: Get previous token 1: 0.031842999160289764
+Info 538  [13:12:23.239] getCompletionsAtPosition: isCompletionListBlocker: 0.01967799849808216
+Info 539  [13:12:23.239] Returning an empty list because completion was requested in an invalid position.
+Info 540  [13:12:23.240] getCompletionData: Get current token: 0.008654000237584114
+Info 541  [13:12:23.240] getCompletionData: Is inside comment: 0.002580000087618828
+Info 542  [13:12:23.240] getCompletionData: Get previous token 1: 0.022067999467253685
+Info 543  [13:12:23.240] getCompletionsAtPosition: isCompletionListBlocker: 0.010227000340819359
+Info 544  [13:12:23.240] Returning an empty list because completion was requested in an invalid position.
+Info 545  [13:12:28.323] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 546  [13:12:28.333] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 64 structureChanged: false Elapsed: 10.157254001125693ms
+Info 547  [13:12:28.333] Different program with same set of files:: structureIsReused:: 2
+Info 548  [13:12:32.073] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 549  [13:12:32.080] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 65 structureChanged: false Elapsed: 6.346375999972224ms
+Info 550  [13:12:32.080] Different program with same set of files:: structureIsReused:: 2
+Info 551  [13:12:32.080] getCompletionData: Get current token: 0.010665999725461006
+Info 552  [13:12:32.080] getCompletionData: Is inside comment: 0.002374999225139618
+Info 553  [13:12:32.080] getCompletionData: Get previous token 1: 0.03191300109028816
+Info 554  [13:12:32.081] getCompletionsAtPosition: isCompletionListBlocker: 0.07534199953079224
+Info 555  [13:12:32.081] Returning an empty list because completion was requested in an invalid position.
+Info 556  [13:12:32.083] getCompletionData: Get current token: 0.009062999859452248
+Info 557  [13:12:32.083] getCompletionData: Is inside comment: 0.0023050010204315186
+Info 558  [13:12:32.083] getCompletionData: Get previous token 1: 0.022326000034809113
+Info 559  [13:12:32.083] getCompletionsAtPosition: isCompletionListBlocker: 0.018408000469207764
+Info 560  [13:12:32.083] Returning an empty list because completion was requested in an invalid position.
+Info 561  [13:12:32.084] getCompletionData: Get current token: 0.007987000048160553
+Info 562  [13:12:32.084] getCompletionData: Is inside comment: 0.002032000571489334
+Info 563  [13:12:32.084] getCompletionData: Get previous token 1: 0.02175699919462204
+Info 564  [13:12:32.084] getCompletionsAtPosition: isCompletionListBlocker: 0.009894000366330147
+Info 565  [13:12:32.084] Returning an empty list because completion was requested in an invalid position.
+Info 566  [13:12:33.463] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 567  [13:12:33.477] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 66 structureChanged: false Elapsed: 14.088008001446724ms
+Info 568  [13:12:33.477] Different program with same set of files:: structureIsReused:: 2
+Info 569  [13:12:33.478] getCompletionData: Get current token: 0.01705300062894821
+Info 570  [13:12:33.478] getCompletionData: Is inside comment: 0.003933999687433243
+Info 571  [13:12:33.478] getCompletionData: Get previous token 1: 0.05681600049138069
+Info 572  [13:12:33.478] getCompletionsAtPosition: isCompletionListBlocker: 0.07335299998521805
+Info 573  [13:12:33.478] Returning an empty list because completion was requested in an invalid position.
+Info 574  [13:12:33.482] getCompletionData: Get current token: 0.00808200053870678
+Info 575  [13:12:33.482] getCompletionData: Is inside comment: 0.0021219998598098755
+Info 576  [13:12:33.482] getCompletionData: Get previous token 1: 0.022715000435709953
+Info 577  [13:12:33.482] getCompletionsAtPosition: isCompletionListBlocker: 0.01763099990785122
+Info 578  [13:12:33.482] Returning an empty list because completion was requested in an invalid position.
+Info 579  [13:12:33.497] getCompletionData: Get current token: 0.01197199895977974
+Info 580  [13:12:33.497] getCompletionData: Is inside comment: 0.0046699997037649155
+Info 581  [13:12:33.497] getCompletionData: Get previous token 1: 0.03540699928998947
+Info 582  [13:12:33.497] getCompletionsAtPosition: isCompletionListBlocker: 0.029832998290657997
+Info 583  [13:12:33.498] Returning an empty list because completion was requested in an invalid position.
+Info 584  [13:12:35.321] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 585  [13:12:35.331] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 67 structureChanged: false Elapsed: 9.530002998188138ms
+Info 586  [13:12:35.331] Different program with same set of files:: structureIsReused:: 2
+Info 587  [13:12:35.426] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 588  [13:12:35.432] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 68 structureChanged: false Elapsed: 5.923512998968363ms
+Info 589  [13:12:35.432] Different program with same set of files:: structureIsReused:: 2
+Info 590  [13:12:35.796] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 591  [13:12:35.812] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 69 structureChanged: false Elapsed: 15.749507000669837ms
+Info 592  [13:12:35.812] Different program with same set of files:: structureIsReused:: 2
+Info 593  [13:12:44.961] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 594  [13:12:44.988] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 70 structureChanged: false Elapsed: 26.159199999645352ms
+Info 595  [13:12:44.988] Different program with same set of files:: structureIsReused:: 2
+Info 596  [13:12:44.991] getCompletionData: Get current token: 0.0384490005671978
+Info 597  [13:12:44.991] getCompletionData: Is inside comment: 0.01065799966454506
+Info 598  [13:12:44.991] getCompletionData: Get previous token 1: 0.0688289999961853
+Info 599  [13:12:44.992] getCompletionsAtPosition: isCompletionListBlocker: 0.47136399894952774
+Info 600  [13:12:44.992] Returning an empty list because completion was requested in an invalid position.
+Info 601  [13:12:44.993] getCompletionData: Get current token: 0.016631999984383583
+Info 602  [13:12:44.993] getCompletionData: Is inside comment: 0.004211999475955963
+Info 603  [13:12:44.994] getCompletionData: Get previous token 1: 0.3425130005925894
+Info 604  [13:12:44.994] getCompletionsAtPosition: isCompletionListBlocker: 0.020816000178456306
+Info 605  [13:12:44.994] Returning an empty list because completion was requested in an invalid position.
+Info 606  [13:12:45.015] getCompletionData: Get current token: 0.009789999574422836
+Info 607  [13:12:45.015] getCompletionData: Is inside comment: 0.0034960005432367325
+Info 608  [13:12:45.015] getCompletionData: Get previous token 1: 0.020798001438379288
+Info 609  [13:12:45.015] getCompletionsAtPosition: isCompletionListBlocker: 0.0160870011895895
+Info 610  [13:12:45.015] Returning an empty list because completion was requested in an invalid position.
+Info 611  [13:12:47.615] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 612  [13:12:47.628] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 71 structureChanged: false Elapsed: 12.970668999478221ms
+Info 613  [13:12:47.628] Different program with same set of files:: structureIsReused:: 2
+Info 614  [13:12:47.628] getCompletionData: Get current token: 0.01618099957704544
+Info 615  [13:12:47.628] getCompletionData: Is inside comment: 0.004288000985980034
+Info 616  [13:12:47.628] getCompletionData: Get previous token 1: 0.04783699847757816
+Info 617  [13:12:47.629] getCompletionsAtPosition: isCompletionListBlocker: 0.05014900118112564
+Info 618  [13:12:47.629] Returning an empty list because completion was requested in an invalid position.
+Info 619  [13:12:47.630] getCompletionData: Get current token: 0.01008399948477745
+Info 620  [13:12:47.630] getCompletionData: Is inside comment: 0.004156000912189484
+Info 621  [13:12:47.630] getCompletionData: Get previous token 1: 0.02442300133407116
+Info 622  [13:12:47.630] getCompletionsAtPosition: isCompletionListBlocker: 0.010386999696493149
+Info 623  [13:12:47.630] Returning an empty list because completion was requested in an invalid position.
+Info 624  [13:12:47.630] getCompletionData: Get current token: 0.009158000349998474
+Info 625  [13:12:47.630] getCompletionData: Is inside comment: 0.0021240003407001495
+Info 626  [13:12:47.630] getCompletionData: Get previous token 1: 0.02326899953186512
+Info 627  [13:12:47.630] getCompletionsAtPosition: isCompletionListBlocker: 0.007613999769091606
+Info 628  [13:12:47.630] Returning an empty list because completion was requested in an invalid position.
+Info 629  [13:12:48.348] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 630  [13:12:48.363] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 72 structureChanged: false Elapsed: 14.924143999814987ms
+Info 631  [13:12:48.363] Different program with same set of files:: structureIsReused:: 2
+Info 632  [13:12:49.603] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 633  [13:12:49.618] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 73 structureChanged: false Elapsed: 15.698066998273134ms
+Info 634  [13:12:49.619] Different program with same set of files:: structureIsReused:: 2
+Info 635  [13:12:49.619] getCompletionData: Get current token: 0.016134999692440033
+Info 636  [13:12:49.619] getCompletionData: Is inside comment: 0.0031570009887218475
+Info 637  [13:12:49.619] getCompletionData: Get previous token 1: 0.043825000524520874
+Info 638  [13:12:49.619] getCompletionsAtPosition: isCompletionListBlocker: 0.07037399895489216
+Info 639  [13:12:49.619] Returning an empty list because completion was requested in an invalid position.
+Info 640  [13:12:49.620] getCompletionData: Get current token: 0.011295000091195107
+Info 641  [13:12:49.620] getCompletionData: Is inside comment: 0.004016999155282974
+Info 642  [13:12:49.620] getCompletionData: Get previous token 1: 0.029197998344898224
+Info 643  [13:12:49.620] getCompletionsAtPosition: isCompletionListBlocker: 0.013193000108003616
+Info 644  [13:12:49.620] Returning an empty list because completion was requested in an invalid position.
+Info 645  [13:12:49.621] getCompletionData: Get current token: 0.010739000514149666
+Info 646  [13:12:49.621] getCompletionData: Is inside comment: 0.0024880003184080124
+Info 647  [13:12:49.621] getCompletionData: Get previous token 1: 0.026440000161528587
+Info 648  [13:12:49.621] getCompletionsAtPosition: isCompletionListBlocker: 0.012384999543428421
+Info 649  [13:12:49.621] Returning an empty list because completion was requested in an invalid position.
+Info 650  [13:12:51.522] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 651  [13:12:51.528] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 74 structureChanged: false Elapsed: 6.597038999199867ms
+Info 652  [13:12:51.528] Different program with same set of files:: structureIsReused:: 2
+Info 653  [13:12:51.529] getCompletionData: Get current token: 0.009631000459194183
+Info 654  [13:12:51.529] getCompletionData: Is inside comment: 0.002080000936985016
+Info 655  [13:12:51.529] getCompletionData: Get previous token 1: 0.03324400074779987
+Info 656  [13:12:51.529] getCompletionsAtPosition: isCompletionListBlocker: 0.044495999813079834
+Info 657  [13:12:51.529] Returning an empty list because completion was requested in an invalid position.
+Info 658  [13:12:51.530] getCompletionData: Get current token: 0.00815500132739544
+Info 659  [13:12:51.530] getCompletionData: Is inside comment: 0.002063000574707985
+Info 660  [13:12:51.530] getCompletionData: Get previous token 1: 0.020444000139832497
+Info 661  [13:12:51.530] getCompletionsAtPosition: isCompletionListBlocker: 0.011277999728918076
+Info 662  [13:12:51.530] Returning an empty list because completion was requested in an invalid position.
+Info 663  [13:12:51.530] getCompletionData: Get current token: 0.00803699903190136
+Info 664  [13:12:51.530] getCompletionData: Is inside comment: 0.002067999914288521
+Info 665  [13:12:51.530] getCompletionData: Get previous token 1: 0.020093999803066254
+Info 666  [13:12:51.530] getCompletionsAtPosition: isCompletionListBlocker: 0.010321000590920448
+Info 667  [13:12:51.530] Returning an empty list because completion was requested in an invalid position.
+Info 668  [13:12:51.922] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 669  [13:12:51.943] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 75 structureChanged: false Elapsed: 21.129135999828577ms
+Info 670  [13:12:51.943] Different program with same set of files:: structureIsReused:: 2
+Info 671  [13:12:52.973] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 672  [13:12:52.982] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 76 structureChanged: false Elapsed: 8.642503000795841ms
+Info 673  [13:12:52.982] Different program with same set of files:: structureIsReused:: 2
+Info 674  [13:12:52.982] getCompletionData: Get current token: 0.0180440004914999
+Info 675  [13:12:52.982] getCompletionData: Is inside comment: 0.004287999123334885
+Info 676  [13:12:52.982] getCompletionData: Get previous token 1: 0.04820999875664711
+Info 677  [13:12:52.982] getCompletionsAtPosition: isCompletionListBlocker: 0.07386799901723862
+Info 678  [13:12:52.982] Returning an empty list because completion was requested in an invalid position.
+Info 679  [13:12:52.984] getCompletionData: Get current token: 0.014320999383926392
+Info 680  [13:12:52.984] getCompletionData: Is inside comment: 0.004104999825358391
+Info 681  [13:12:52.984] getCompletionData: Get previous token 1: 0.03511499986052513
+Info 682  [13:12:52.984] getCompletionsAtPosition: isCompletionListBlocker: 0.015386000275611877
+Info 683  [13:12:52.984] Returning an empty list because completion was requested in an invalid position.
+Info 684  [13:12:52.985] getCompletionData: Get current token: 0.012024998664855957
+Info 685  [13:12:52.985] getCompletionData: Is inside comment: 0.003076000139117241
+Info 686  [13:12:52.985] getCompletionData: Get previous token 1: 0.027869999408721924
+Info 687  [13:12:52.985] getCompletionsAtPosition: isCompletionListBlocker: 0.00731000117957592
+Info 688  [13:12:52.985] Returning an empty list because completion was requested in an invalid position.
+Info 689  [13:12:56.763] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 690  [13:12:56.770] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 77 structureChanged: false Elapsed: 6.984031999483705ms
+Info 691  [13:12:56.770] Different program with same set of files:: structureIsReused:: 2
+Info 692  [13:12:56.770] getCompletionData: Get current token: 0.013722000643610954
+Info 693  [13:12:56.770] getCompletionData: Is inside comment: 0.004960000514984131
+Info 694  [13:12:56.770] getCompletionData: Get previous token 1: 0.038916999474167824
+Info 695  [13:12:56.770] getCompletionsAtPosition: isCompletionListBlocker: 0.05900399945676327
+Info 696  [13:12:56.770] Returning an empty list because completion was requested in an invalid position.
+Info 697  [13:12:56.772] getCompletionData: Get current token: 0.011553999036550522
+Info 698  [13:12:56.772] getCompletionData: Is inside comment: 0.003092000260949135
+Info 699  [13:12:56.772] getCompletionData: Get previous token 1: 0.027900001034140587
+Info 700  [13:12:56.772] getCompletionsAtPosition: isCompletionListBlocker: 0.013712998479604721
+Info 701  [13:12:56.772] Returning an empty list because completion was requested in an invalid position.
+Info 702  [13:12:56.772] getCompletionData: Get current token: 0.01064000092446804
+Info 703  [13:12:56.772] getCompletionData: Is inside comment: 0.002384999766945839
+Info 704  [13:12:56.773] getCompletionData: Get previous token 1: 0.02631399966776371
+Info 705  [13:12:56.773] getCompletionsAtPosition: isCompletionListBlocker: 0.012167999520897865
+Info 706  [13:12:56.773] Returning an empty list because completion was requested in an invalid position.
+Info 707  [13:12:58.616] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 708  [13:12:58.631] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 78 structureChanged: false Elapsed: 15.23140300065279ms
+Info 709  [13:12:58.631] Different program with same set of files:: structureIsReused:: 2
+Info 710  [13:13:01.661] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 711  [13:13:01.678] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 79 structureChanged: false Elapsed: 16.76975500024855ms
+Info 712  [13:13:01.678] Different program with same set of files:: structureIsReused:: 2
+Info 713  [13:13:01.679] getCompletionData: Get current token: 0.015410000458359718
+Info 714  [13:13:01.679] getCompletionData: Is inside comment: 0.003595000132918358
+Info 715  [13:13:01.679] getCompletionData: Get previous token 1: 0.048389000818133354
+Info 716  [13:13:01.679] getCompletionsAtPosition: isCompletionListBlocker: 0.06948400102555752
+Info 717  [13:13:01.679] Returning an empty list because completion was requested in an invalid position.
+Info 718  [13:13:01.682] getCompletionData: Get current token: 0.010089000687003136
+Info 719  [13:13:01.682] getCompletionData: Is inside comment: 0.002376999706029892
+Info 720  [13:13:01.682] getCompletionData: Get previous token 1: 0.023183001205325127
+Info 721  [13:13:01.682] getCompletionsAtPosition: isCompletionListBlocker: 0.015905000269412994
+Info 722  [13:13:01.682] Returning an empty list because completion was requested in an invalid position.
+Info 723  [13:13:01.702] getCompletionData: Get current token: 0.02685300074517727
+Info 724  [13:13:01.702] getCompletionData: Is inside comment: 0.008623000234365463
+Info 725  [13:13:01.702] getCompletionData: Get previous token 1: 0.06421000137925148
+Info 726  [13:13:01.702] getCompletionsAtPosition: isCompletionListBlocker: 0.033414000645279884
+Info 727  [13:13:01.702] Returning an empty list because completion was requested in an invalid position.
+Info 728  [13:13:03.131] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 729  [13:13:03.144] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 80 structureChanged: false Elapsed: 13.658775998279452ms
+Info 730  [13:13:03.144] Different program with same set of files:: structureIsReused:: 2
+Info 731  [13:13:03.145] getCompletionData: Get current token: 0.009232999756932259
+Info 732  [13:13:03.145] getCompletionData: Is inside comment: 0.0020110011100769043
+Info 733  [13:13:03.145] getCompletionData: Get previous token 1: 0.02649100124835968
+Info 734  [13:13:03.145] getCompletionsAtPosition: isCompletionListBlocker: 0.04621000029146671
+Info 735  [13:13:03.145] Returning an empty list because completion was requested in an invalid position.
+Info 736  [13:13:03.148] getCompletionData: Get current token: 0.015285998582839966
+Info 737  [13:13:03.148] getCompletionData: Is inside comment: 0.0027479995042085648
+Info 738  [13:13:03.148] getCompletionData: Get previous token 1: 0.03195600025355816
+Info 739  [13:13:03.148] getCompletionsAtPosition: isCompletionListBlocker: 0.018366999924182892
+Info 740  [13:13:03.148] Returning an empty list because completion was requested in an invalid position.
+Info 741  [13:13:03.149] getCompletionData: Get current token: 0.00887100026011467
+Info 742  [13:13:03.149] getCompletionData: Is inside comment: 0.002219999209046364
+Info 743  [13:13:03.149] getCompletionData: Get previous token 1: 0.022241998463869095
+Info 744  [13:13:03.149] getCompletionsAtPosition: isCompletionListBlocker: 0.016784999519586563
+Info 745  [13:13:03.149] Returning an empty list because completion was requested in an invalid position.
+Info 746  [13:13:04.602] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 747  [13:13:04.612] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 81 structureChanged: false Elapsed: 9.500586001202464ms
+Info 748  [13:13:04.612] Different program with same set of files:: structureIsReused:: 2
+Info 749  [13:13:04.612] getCompletionData: Get current token: 0.021177999675273895
+Info 750  [13:13:04.612] getCompletionData: Is inside comment: 0.0045010000467300415
+Info 751  [13:13:04.612] getCompletionData: Get previous token 1: 0.058708999305963516
+Info 752  [13:13:04.613] getCompletionsAtPosition: isCompletionListBlocker: 0.08630800060927868
+Info 753  [13:13:04.613] Returning an empty list because completion was requested in an invalid position.
+Info 754  [13:13:04.614] getCompletionData: Get current token: 0.016475001350045204
+Info 755  [13:13:04.614] getCompletionData: Is inside comment: 0.004058999940752983
+Info 756  [13:13:04.614] getCompletionData: Get previous token 1: 0.039512999355793
+Info 757  [13:13:04.614] getCompletionsAtPosition: isCompletionListBlocker: 0.01331000030040741
+Info 758  [13:13:04.614] Returning an empty list because completion was requested in an invalid position.
+Info 759  [13:13:04.615] getCompletionData: Get current token: 0.014738999307155609
+Info 760  [13:13:04.615] getCompletionData: Is inside comment: 0.0030250009149312973
+Info 761  [13:13:04.615] getCompletionData: Get previous token 1: 0.03381600044667721
+Info 762  [13:13:04.615] getCompletionsAtPosition: isCompletionListBlocker: 0.011292999610304832
+Info 763  [13:13:04.615] Returning an empty list because completion was requested in an invalid position.
+Info 764  [13:13:04.899] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 765  [13:13:04.905] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 82 structureChanged: false Elapsed: 6.522113999351859ms
+Info 766  [13:13:04.905] Different program with same set of files:: structureIsReused:: 2
+Info 767  [13:13:05.408] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 768  [13:13:05.417] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 83 structureChanged: false Elapsed: 9.521900000050664ms
+Info 769  [13:13:05.417] Different program with same set of files:: structureIsReused:: 2
+Info 770  [13:13:07.532] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 771  [13:13:07.539] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 84 structureChanged: false Elapsed: 6.421901999041438ms
+Info 772  [13:13:07.540] Different program with same set of files:: structureIsReused:: 2
+Info 773  [13:13:07.540] getCompletionData: Get current token: 0.009751999750733376
+Info 774  [13:13:07.540] getCompletionData: Is inside comment: 0.0021009985357522964
+Info 775  [13:13:07.540] getCompletionData: Get previous token 1: 0.027006998658180237
+Info 776  [13:13:07.540] getCompletionsAtPosition: isCompletionListBlocker: 0.043209999799728394
+Info 777  [13:13:07.540] Returning an empty list because completion was requested in an invalid position.
+Info 778  [13:13:07.541] getCompletionData: Get current token: 0.007916999980807304
+Info 779  [13:13:07.541] getCompletionData: Is inside comment: 0.0019199997186660767
+Info 780  [13:13:07.541] getCompletionData: Get previous token 1: 0.01848899945616722
+Info 781  [13:13:07.541] getCompletionsAtPosition: isCompletionListBlocker: 0.008678000420331955
+Info 782  [13:13:07.541] Returning an empty list because completion was requested in an invalid position.
+Info 783  [13:13:07.542] getCompletionData: Get current token: 0.007814999669790268
+Info 784  [13:13:07.542] getCompletionData: Is inside comment: 0.00221400149166584
+Info 785  [13:13:07.542] getCompletionData: Get previous token 1: 0.018052000552415848
+Info 786  [13:13:07.542] getCompletionsAtPosition: isCompletionListBlocker: 0.00644800066947937
+Info 787  [13:13:07.542] Returning an empty list because completion was requested in an invalid position.
+Info 788  [13:13:08.221] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 789  [13:13:08.228] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 85 structureChanged: false Elapsed: 7.002349998801947ms
+Info 790  [13:13:08.228] Different program with same set of files:: structureIsReused:: 2
+Info 791  [13:13:10.266] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 792  [13:13:10.279] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 86 structureChanged: false Elapsed: 12.770956998690963ms
+Info 793  [13:13:10.279] Different program with same set of files:: structureIsReused:: 2
+Info 794  [13:13:10.279] getCompletionData: Get current token: 0.013360001146793365
+Info 795  [13:13:10.279] getCompletionData: Is inside comment: 0.0026680007576942444
+Info 796  [13:13:10.279] getCompletionData: Get previous token 1: 0.03523600101470947
+Info 797  [13:13:10.279] getCompletionsAtPosition: isCompletionListBlocker: 0.05358000099658966
+Info 798  [13:13:10.279] Returning an empty list because completion was requested in an invalid position.
+Info 799  [13:13:10.282] getCompletionData: Get current token: 0.00871099904179573
+Info 800  [13:13:10.282] getCompletionData: Is inside comment: 0.0018300004303455353
+Info 801  [13:13:10.282] getCompletionData: Get previous token 1: 0.019464999437332153
+Info 802  [13:13:10.282] getCompletionsAtPosition: isCompletionListBlocker: 0.014322999864816666
+Info 803  [13:13:10.282] Returning an empty list because completion was requested in an invalid position.
+Info 804  [13:13:10.282] getCompletionData: Get current token: 0.007546000182628632
+Info 805  [13:13:10.282] getCompletionData: Is inside comment: 0.0015889983624219894
+Info 806  [13:13:10.283] getCompletionData: Get previous token 1: 0.018829001113772392
+Info 807  [13:13:10.283] getCompletionsAtPosition: isCompletionListBlocker: 0.008517000824213028
+Info 808  [13:13:10.283] Returning an empty list because completion was requested in an invalid position.
+Info 809  [13:13:11.335] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 810  [13:13:11.350] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 87 structureChanged: false Elapsed: 15.224097000434995ms
+Info 811  [13:13:11.351] Different program with same set of files:: structureIsReused:: 2
+Info 812  [13:13:11.351] getCompletionData: Get current token: 0.016567999497056007
+Info 813  [13:13:11.351] getCompletionData: Is inside comment: 0.003707999363541603
+Info 814  [13:13:11.351] getCompletionData: Get previous token 1: 0.04692600108683109
+Info 815  [13:13:11.351] getCompletionsAtPosition: isCompletionListBlocker: 0.0726539995521307
+Info 816  [13:13:11.351] Returning an empty list because completion was requested in an invalid position.
+Info 817  [13:13:11.354] getCompletionData: Get current token: 0.010781999677419662
+Info 818  [13:13:11.354] getCompletionData: Is inside comment: 0.0026320014148950577
+Info 819  [13:13:11.354] getCompletionData: Get previous token 1: 0.025767000392079353
+Info 820  [13:13:11.355] getCompletionsAtPosition: isCompletionListBlocker: 0.017488999292254448
+Info 821  [13:13:11.355] Returning an empty list because completion was requested in an invalid position.
+Info 822  [13:13:11.355] getCompletionData: Get current token: 0.00963599979877472
+Info 823  [13:13:11.355] getCompletionData: Is inside comment: 0.0021460000425577164
+Info 824  [13:13:11.355] getCompletionData: Get previous token 1: 0.02359899878501892
+Info 825  [13:13:11.355] getCompletionsAtPosition: isCompletionListBlocker: 0.009957000613212585
+Info 826  [13:13:11.355] Returning an empty list because completion was requested in an invalid position.
+Info 827  [13:13:12.519] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 828  [13:13:12.525] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 88 structureChanged: false Elapsed: 6.781066000461578ms
+Info 829  [13:13:12.525] Different program with same set of files:: structureIsReused:: 2
+Info 830  [13:13:12.526] getCompletionData: Get current token: 0.01344200037419796
+Info 831  [13:13:12.526] getCompletionData: Is inside comment: 0.0031019989401102066
+Info 832  [13:13:12.526] getCompletionData: Get previous token 1: 0.04044399969279766
+Info 833  [13:13:12.526] getCompletionsAtPosition: isCompletionListBlocker: 0.05714400112628937
+Info 834  [13:13:12.526] Returning an empty list because completion was requested in an invalid position.
+Info 835  [13:13:12.529] getCompletionData: Get current token: 0.008455999195575714
+Info 836  [13:13:12.529] getCompletionData: Is inside comment: 0.0019370000809431076
+Info 837  [13:13:12.529] getCompletionData: Get previous token 1: 0.019857000559568405
+Info 838  [13:13:12.529] getCompletionsAtPosition: isCompletionListBlocker: 0.012289000675082207
+Info 839  [13:13:12.529] Returning an empty list because completion was requested in an invalid position.
+Info 840  [13:13:12.529] getCompletionData: Get current token: 0.007973998785018921
+Info 841  [13:13:12.529] getCompletionData: Is inside comment: 0.001830998808145523
+Info 842  [13:13:12.529] getCompletionData: Get previous token 1: 0.018806999549269676
+Info 843  [13:13:12.529] getCompletionsAtPosition: isCompletionListBlocker: 0.006448999047279358
+Info 844  [13:13:12.529] Returning an empty list because completion was requested in an invalid position.
+Info 845  [13:13:13.963] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 846  [13:13:13.978] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 89 structureChanged: false Elapsed: 14.778169000521302ms
+Info 847  [13:13:13.978] Different program with same set of files:: structureIsReused:: 2
+Info 848  [13:13:13.979] getCompletionData: Get current token: 0.016692999750375748
+Info 849  [13:13:13.979] getCompletionData: Is inside comment: 0.0035979989916086197
+Info 850  [13:13:13.979] getCompletionData: Get previous token 1: 0.04762599989771843
+Info 851  [13:13:13.979] getCompletionsAtPosition: isCompletionListBlocker: 0.07031000033020973
+Info 852  [13:13:13.979] Returning an empty list because completion was requested in an invalid position.
+Info 853  [13:13:13.983] getCompletionData: Get current token: 0.010902998968958855
+Info 854  [13:13:13.983] getCompletionData: Is inside comment: 0.0028219986706972122
+Info 855  [13:13:13.983] getCompletionData: Get previous token 1: 0.0313900001347065
+Info 856  [13:13:13.983] getCompletionsAtPosition: isCompletionListBlocker: 0.016248000785708427
+Info 857  [13:13:13.983] Returning an empty list because completion was requested in an invalid position.
+Info 858  [13:13:14.003] getCompletionData: Get current token: 0.01305299997329712
+Info 859  [13:13:14.003] getCompletionData: Is inside comment: 0.002387000247836113
+Info 860  [13:13:14.003] getCompletionData: Get previous token 1: 0.02176399901509285
+Info 861  [13:13:14.003] getCompletionsAtPosition: isCompletionListBlocker: 0.01781499944627285
+Info 862  [13:13:14.003] Returning an empty list because completion was requested in an invalid position.
+Info 863  [13:13:15.704] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 864  [13:13:15.713] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 90 structureChanged: false Elapsed: 8.08309100009501ms
+Info 865  [13:13:15.713] Different program with same set of files:: structureIsReused:: 2
+Info 866  [13:13:15.713] getCompletionData: Get current token: 0.015203000977635384
+Info 867  [13:13:15.713] getCompletionData: Is inside comment: 0.0033010002225637436
+Info 868  [13:13:15.713] getCompletionData: Get previous token 1: 0.04262399859726429
+Info 869  [13:13:15.713] getCompletionsAtPosition: isCompletionListBlocker: 0.0676369983702898
+Info 870  [13:13:15.713] Returning an empty list because completion was requested in an invalid position.
+Info 871  [13:13:15.717] getCompletionData: Get current token: 0.011971000581979752
+Info 872  [13:13:15.717] getCompletionData: Is inside comment: 0.0026489999145269394
+Info 873  [13:13:15.718] getCompletionData: Get previous token 1: 1.0878500007092953
+Info 874  [13:13:15.718] getCompletionsAtPosition: isCompletionListBlocker: 0.021625999361276627
+Info 875  [13:13:15.718] Returning an empty list because completion was requested in an invalid position.
+Info 876  [13:13:15.719] getCompletionData: Get current token: 0.012130999937653542
+Info 877  [13:13:15.719] getCompletionData: Is inside comment: 0.0027699992060661316
+Info 878  [13:13:15.719] getCompletionData: Get previous token 1: 0.030226999893784523
+Info 879  [13:13:15.719] getCompletionsAtPosition: isCompletionListBlocker: 0.012683000415563583
+Info 880  [13:13:15.719] Returning an empty list because completion was requested in an invalid position.
+Info 881  [13:13:16.069] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 882  [13:13:16.076] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 91 structureChanged: false Elapsed: 6.327155999839306ms
+Info 883  [13:13:16.076] Different program with same set of files:: structureIsReused:: 2
+Info 884  [13:13:46.551] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 885  [13:13:46.568] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 92 structureChanged: false Elapsed: 16.942573999986053ms
+Info 886  [13:13:46.568] Different program with same set of files:: structureIsReused:: 2
+Info 887  [13:13:47.468] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 888  [13:13:47.478] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 93 structureChanged: false Elapsed: 10.104139000177383ms
+Info 889  [13:13:47.479] Different program with same set of files:: structureIsReused:: 2
+Info 890  [13:13:47.479] getCompletionData: Get current token: 0.009128998965024948
+Info 891  [13:13:47.479] getCompletionData: Is inside comment: 0.0022890008985996246
+Info 892  [13:13:47.479] getCompletionData: Get previous token 1: 0.0284000001847744
+Info 893  [13:13:47.479] getCompletionsAtPosition: isCompletionListBlocker: 0.040970999747514725
+Info 894  [13:13:47.479] Returning an empty list because completion was requested in an invalid position.
+Info 895  [13:13:47.480] getCompletionData: Get current token: 0.00776199996471405
+Info 896  [13:13:47.480] getCompletionData: Is inside comment: 0.0017559994012117386
+Info 897  [13:13:47.480] getCompletionData: Get previous token 1: 0.01871499978005886
+Info 898  [13:13:47.480] getCompletionsAtPosition: isCompletionListBlocker: 0.007961999624967575
+Info 899  [13:13:47.480] Returning an empty list because completion was requested in an invalid position.
+Info 900  [13:13:47.481] getCompletionData: Get current token: 0.007042998448014259
+Info 901  [13:13:47.481] getCompletionData: Is inside comment: 0.0015160012990236282
+Info 902  [13:13:47.481] getCompletionData: Get previous token 1: 0.01799899898469448
+Info 903  [13:13:47.481] getCompletionsAtPosition: isCompletionListBlocker: 0.005973000079393387
+Info 904  [13:13:47.481] Returning an empty list because completion was requested in an invalid position.
+Info 905  [13:13:47.822] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 906  [13:13:47.841] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 94 structureChanged: false Elapsed: 19.23021699860692ms
+Info 907  [13:13:47.841] Different program with same set of files:: structureIsReused:: 2
+Info 908  [13:13:49.583] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 909  [13:13:49.601] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 95 structureChanged: false Elapsed: 17.9537159986794ms
+Info 910  [13:13:49.601] Different program with same set of files:: structureIsReused:: 2
+Info 911  [13:13:49.602] getCompletionData: Get current token: 0.011030999943614006
+Info 912  [13:13:49.602] getCompletionData: Is inside comment: 0.0025100000202655792
+Info 913  [13:13:49.602] getCompletionData: Get previous token 1: 0.031658999621868134
+Info 914  [13:13:49.602] getCompletionsAtPosition: isCompletionListBlocker: 0.04611999914050102
+Info 915  [13:13:49.602] Returning an empty list because completion was requested in an invalid position.
+Info 916  [13:13:49.603] getCompletionData: Get current token: 0.008599000051617622
+Info 917  [13:13:49.603] getCompletionData: Is inside comment: 0.0021129995584487915
+Info 918  [13:13:49.603] getCompletionData: Get previous token 1: 0.03343000076711178
+Info 919  [13:13:49.603] getCompletionsAtPosition: isCompletionListBlocker: 0.009679999202489853
+Info 920  [13:13:49.603] Returning an empty list because completion was requested in an invalid position.
+Info 921  [13:13:49.604] getCompletionData: Get current token: 0.016016000881791115
+Info 922  [13:13:49.604] getCompletionData: Is inside comment: 0.003978000953793526
+Info 923  [13:13:49.604] getCompletionData: Get previous token 1: 0.03978100046515465
+Info 924  [13:13:49.604] getCompletionsAtPosition: isCompletionListBlocker: 0.014799000695347786
+Info 925  [13:13:49.604] Returning an empty list because completion was requested in an invalid position.
+Info 926  [13:14:03.104] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 927  [13:14:03.124] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 96 structureChanged: false Elapsed: 19.519596001133323ms
+Info 928  [13:14:03.124] Different program with same set of files:: structureIsReused:: 2
+Info 929  [13:14:03.222] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 930  [13:14:03.232] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 97 structureChanged: false Elapsed: 9.358492000028491ms
+Info 931  [13:14:03.232] Different program with same set of files:: structureIsReused:: 2
+Info 932  [13:14:06.156] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 933  [13:14:06.171] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 98 structureChanged: false Elapsed: 15.138511000201106ms
+Info 934  [13:14:06.172] Different program with same set of files:: structureIsReused:: 2
+Info 935  [13:14:07.451] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 936  [13:14:07.482] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 99 structureChanged: false Elapsed: 30.663364998996258ms
+Info 937  [13:14:07.482] Different program with same set of files:: structureIsReused:: 2
+Info 938  [13:14:08.531] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 939  [13:14:08.541] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 100 structureChanged: false Elapsed: 9.836456999182701ms
+Info 940  [13:14:08.541] Different program with same set of files:: structureIsReused:: 2
+Info 941  [13:14:09.648] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 942  [13:14:09.658] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 101 structureChanged: false Elapsed: 9.738732999190688ms
+Info 943  [13:14:09.658] Different program with same set of files:: structureIsReused:: 2
+Info 944  [13:14:09.752] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 945  [13:14:09.771] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 102 structureChanged: false Elapsed: 18.990345001220703ms
+Info 946  [13:14:09.771] Different program with same set of files:: structureIsReused:: 2
+Info 947  [13:14:11.048] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 948  [13:14:11.063] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 103 structureChanged: false Elapsed: 14.95732199959457ms
+Info 949  [13:14:11.063] Different program with same set of files:: structureIsReused:: 2
+Info 950  [13:14:11.999] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 951  [13:14:12.005] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 104 structureChanged: false Elapsed: 5.74707000143826ms
+Info 952  [13:14:12.005] Different program with same set of files:: structureIsReused:: 2
+Info 953  [13:14:27.449] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 954  [13:14:27.470] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 105 structureChanged: false Elapsed: 20.10055699944496ms
+Info 955  [13:14:27.470] Different program with same set of files:: structureIsReused:: 2
+Info 956  [13:14:27.471] getCompletionData: Get current token: 0.01586199924349785
+Info 957  [13:14:27.471] getCompletionData: Is inside comment: 0.005271000787615776
+Info 958  [13:14:27.471] getCompletionData: Get previous token 1: 0.04212299920618534
+Info 959  [13:14:27.472] getCompletionsAtPosition: isCompletionListBlocker: 0.26109799928963184
+Info 960  [13:14:27.472] Returning an empty list because completion was requested in an invalid position.
+Info 961  [13:14:27.473] getCompletionData: Get current token: 0.008320000022649765
+Info 962  [13:14:27.473] getCompletionData: Is inside comment: 0.002237999811768532
+Info 963  [13:14:27.473] getCompletionData: Get previous token 1: 0.025102999061346054
+Info 964  [13:14:27.473] getCompletionsAtPosition: isCompletionListBlocker: 0.012162001803517342
+Info 965  [13:14:27.473] Returning an empty list because completion was requested in an invalid position.
+Info 966  [13:14:27.494] getCompletionData: Get current token: 0.009510001167654991
+Info 967  [13:14:27.494] getCompletionData: Is inside comment: 0.0026580002158880234
+Info 968  [13:14:27.494] getCompletionData: Get previous token 1: 0.02430799975991249
+Info 969  [13:14:27.494] getCompletionsAtPosition: isCompletionListBlocker: 0.01980999857187271
+Info 970  [13:14:27.494] Returning an empty list because completion was requested in an invalid position.
+Info 971  [13:14:27.965] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 972  [13:14:27.981] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 106 structureChanged: false Elapsed: 15.578491000458598ms
+Info 973  [13:14:27.981] Different program with same set of files:: structureIsReused:: 2
+Info 974  [13:14:31.343] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 975  [13:14:31.350] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 107 structureChanged: false Elapsed: 6.665519999340177ms
+Info 976  [13:14:31.350] Different program with same set of files:: structureIsReused:: 2
+Info 977  [13:14:31.350] getCompletionData: Get current token: 0.009689001366496086
+Info 978  [13:14:31.350] getCompletionData: Is inside comment: 0.002580000087618828
+Info 979  [13:14:31.350] getCompletionData: Get previous token 1: 0.030744001269340515
+Info 980  [13:14:31.350] getCompletionsAtPosition: isCompletionListBlocker: 0.041975000873208046
+Info 981  [13:14:31.350] Returning an empty list because completion was requested in an invalid position.
+Info 982  [13:14:31.351] getCompletionData: Get current token: 0.008100001141428947
+Info 983  [13:14:31.351] getCompletionData: Is inside comment: 0.0036249998956918716
+Info 984  [13:14:31.351] getCompletionData: Get previous token 1: 0.021879998967051506
+Info 985  [13:14:31.351] getCompletionsAtPosition: isCompletionListBlocker: 0.011030999943614006
+Info 986  [13:14:31.351] Returning an empty list because completion was requested in an invalid position.
+Info 987  [13:14:31.352] getCompletionData: Get current token: 0.008044000715017319
+Info 988  [13:14:31.352] getCompletionData: Is inside comment: 0.0019920002669095993
+Info 989  [13:14:31.352] getCompletionData: Get previous token 1: 0.02168400026857853
+Info 990  [13:14:31.352] getCompletionsAtPosition: isCompletionListBlocker: 0.0075690001249313354
+Info 991  [13:14:31.352] Returning an empty list because completion was requested in an invalid position.
+Info 992  [13:14:32.299] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 993  [13:14:32.310] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 108 structureChanged: false Elapsed: 11.340464999899268ms
+Info 994  [13:14:32.310] Different program with same set of files:: structureIsReused:: 2
+Info 995  [13:14:32.311] getCompletionData: Get current token: 0.023962000384926796
+Info 996  [13:14:32.311] getCompletionData: Is inside comment: 0.004191000014543533
+Info 997  [13:14:32.311] getCompletionData: Get previous token 1: 0.05840799957513809
+Info 998  [13:14:32.311] getCompletionsAtPosition: isCompletionListBlocker: 0.07476699911057949
+Info 999  [13:14:32.311] Returning an empty list because completion was requested in an invalid position.
+Info 1000 [13:14:32.313] getCompletionData: Get current token: 0.015471000224351883
+Info 1001 [13:14:32.313] getCompletionData: Is inside comment: 0.004049999639391899
+Info 1002 [13:14:32.313] getCompletionData: Get previous token 1: 0.03948799893260002
+Info 1003 [13:14:32.314] getCompletionsAtPosition: isCompletionListBlocker: 0.01667199842631817
+Info 1004 [13:14:32.314] Returning an empty list because completion was requested in an invalid position.
+Info 1005 [13:14:32.335] getCompletionData: Get current token: 0.027073001489043236
+Info 1006 [13:14:32.336] getCompletionData: Is inside comment: 0.006585000082850456
+Info 1007 [13:14:32.336] getCompletionData: Get previous token 1: 0.06867699883878231
+Info 1008 [13:14:32.336] getCompletionsAtPosition: isCompletionListBlocker: 0.034866999834775925
+Info 1009 [13:14:32.336] Returning an empty list because completion was requested in an invalid position.
+Info 1010 [13:14:34.739] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1011 [13:14:34.755] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 109 structureChanged: false Elapsed: 15.661163000389934ms
+Info 1012 [13:14:34.755] Different program with same set of files:: structureIsReused:: 2
+Info 1013 [13:14:34.756] getCompletionData: Get current token: 0.01833599992096424
+Info 1014 [13:14:34.756] getCompletionData: Is inside comment: 0.0043289996683597565
+Info 1015 [13:14:34.756] getCompletionData: Get previous token 1: 0.05494599975645542
+Info 1016 [13:14:34.756] getCompletionsAtPosition: isCompletionListBlocker: 0.07721900008618832
+Info 1017 [13:14:34.756] Returning an empty list because completion was requested in an invalid position.
+Info 1018 [13:14:34.757] getCompletionData: Get current token: 0.010996999219059944
+Info 1019 [13:14:34.758] getCompletionData: Is inside comment: 0.0026590004563331604
+Info 1020 [13:14:34.758] getCompletionData: Get previous token 1: 0.0303569994866848
+Info 1021 [13:14:34.758] getCompletionsAtPosition: isCompletionListBlocker: 0.01638200134038925
+Info 1022 [13:14:34.758] Returning an empty list because completion was requested in an invalid position.
+Info 1023 [13:14:34.779] getCompletionData: Get current token: 0.025217000395059586
+Info 1024 [13:14:34.779] getCompletionData: Is inside comment: 0.0060530006885528564
+Info 1025 [13:14:34.780] getCompletionData: Get previous token 1: 0.34607099927961826
+Info 1026 [13:14:34.780] getCompletionsAtPosition: isCompletionListBlocker: 0.03876199945807457
+Info 1027 [13:14:34.780] Returning an empty list because completion was requested in an invalid position.
+Info 1028 [13:14:36.202] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1029 [13:14:36.220] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 110 structureChanged: false Elapsed: 18.027007000520825ms
+Info 1030 [13:14:36.220] Different program with same set of files:: structureIsReused:: 2
+Info 1031 [13:14:36.221] getCompletionData: Get current token: 0.01397000066936016
+Info 1032 [13:14:36.221] getCompletionData: Is inside comment: 0.0033330004662275314
+Info 1033 [13:14:36.221] getCompletionData: Get previous token 1: 0.041058000177145004
+Info 1034 [13:14:36.221] getCompletionsAtPosition: isCompletionListBlocker: 0.057670000940561295
+Info 1035 [13:14:36.221] Returning an empty list because completion was requested in an invalid position.
+Info 1036 [13:14:36.222] getCompletionData: Get current token: 0.010844999924302101
+Info 1037 [13:14:36.222] getCompletionData: Is inside comment: 0.0026259999722242355
+Info 1038 [13:14:36.222] getCompletionData: Get previous token 1: 0.02934200130403042
+Info 1039 [13:14:36.222] getCompletionsAtPosition: isCompletionListBlocker: 0.0128409992903471
+Info 1040 [13:14:36.222] Returning an empty list because completion was requested in an invalid position.
+Info 1041 [13:14:36.239] getCompletionData: Get current token: 0.024894999340176582
+Info 1042 [13:14:36.239] getCompletionData: Is inside comment: 0.006453000009059906
+Info 1043 [13:14:36.239] getCompletionData: Get previous token 1: 0.065310999751091
+Info 1044 [13:14:36.239] getCompletionsAtPosition: isCompletionListBlocker: 0.03246700018644333
+Info 1045 [13:14:36.239] Returning an empty list because completion was requested in an invalid position.
+Info 1046 [13:14:37.091] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1047 [13:14:37.110] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 111 structureChanged: false Elapsed: 18.8400919996202ms
+Info 1048 [13:14:37.110] Different program with same set of files:: structureIsReused:: 2
+Info 1049 [13:14:37.412] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1050 [13:14:37.429] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 112 structureChanged: false Elapsed: 16.7713130004704ms
+Info 1051 [13:14:37.429] Different program with same set of files:: structureIsReused:: 2
+Info 1052 [13:14:40.415] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1053 [13:14:40.426] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 113 structureChanged: false Elapsed: 10.80617699958384ms
+Info 1054 [13:14:40.426] Different program with same set of files:: structureIsReused:: 2
+Info 1055 [13:14:41.686] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1056 [13:14:41.697] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 114 structureChanged: false Elapsed: 10.512835999950767ms
+Info 1057 [13:14:41.697] Different program with same set of files:: structureIsReused:: 2
+Info 1058 [13:14:46.516] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1059 [13:14:46.541] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 115 structureChanged: false Elapsed: 24.54843799956143ms
+Info 1060 [13:14:46.541] Different program with same set of files:: structureIsReused:: 2
+Info 1061 [13:14:46.541] getCompletionData: Get current token: 0.010291000828146935
+Info 1062 [13:14:46.541] getCompletionData: Is inside comment: 0.003216000273823738
+Info 1063 [13:14:46.541] getCompletionData: Get previous token 1: 0.029028000310063362
+Info 1064 [13:14:46.541] getCompletionsAtPosition: isCompletionListBlocker: 0.036538999527692795
+Info 1065 [13:14:46.541] Returning an empty list because completion was requested in an invalid position.
+Info 1066 [13:14:46.542] getCompletionData: Get current token: 0.007913000881671906
+Info 1067 [13:14:46.543] getCompletionData: Is inside comment: 0.0018980000168085098
+Info 1068 [13:14:46.543] getCompletionData: Get previous token 1: 0.023022999987006187
+Info 1069 [13:14:46.543] getCompletionsAtPosition: isCompletionListBlocker: 0.010571999475359917
+Info 1070 [13:14:46.543] Returning an empty list because completion was requested in an invalid position.
+Info 1071 [13:14:46.564] getCompletionData: Get current token: 0.02396399900317192
+Info 1072 [13:14:46.564] getCompletionData: Is inside comment: 0.005159998312592506
+Info 1073 [13:14:46.564] getCompletionData: Get previous token 1: 0.05882699973881245
+Info 1074 [13:14:46.564] getCompletionsAtPosition: isCompletionListBlocker: 0.022444000467658043
+Info 1075 [13:14:46.565] Returning an empty list because completion was requested in an invalid position.
+Info 1076 [13:14:47.846] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1077 [13:14:47.854] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 116 structureChanged: false Elapsed: 8.028968999162316ms
+Info 1078 [13:14:47.854] Different program with same set of files:: structureIsReused:: 2
+Info 1079 [13:14:47.854] getCompletionData: Get current token: 0.009713999927043915
+Info 1080 [13:14:47.854] getCompletionData: Is inside comment: 0.0020809993147850037
+Info 1081 [13:14:47.854] getCompletionData: Get previous token 1: 0.030072001740336418
+Info 1082 [13:14:47.854] getCompletionsAtPosition: isCompletionListBlocker: 0.041663000360131264
+Info 1083 [13:14:47.854] Returning an empty list because completion was requested in an invalid position.
+Info 1084 [13:14:47.856] getCompletionData: Get current token: 0.008044000715017319
+Info 1085 [13:14:47.856] getCompletionData: Is inside comment: 0.001862999051809311
+Info 1086 [13:14:47.856] getCompletionData: Get previous token 1: 0.02098800055682659
+Info 1087 [13:14:47.856] getCompletionsAtPosition: isCompletionListBlocker: 0.010072000324726105
+Info 1088 [13:14:47.856] Returning an empty list because completion was requested in an invalid position.
+Info 1089 [13:14:47.856] getCompletionData: Get current token: 0.012331001460552216
+Info 1090 [13:14:47.856] getCompletionData: Is inside comment: 0.0028480011969804764
+Info 1091 [13:14:47.856] getCompletionData: Get previous token 1: 0.03022400103509426
+Info 1092 [13:14:47.856] getCompletionsAtPosition: isCompletionListBlocker: 0.01064000092446804
+Info 1093 [13:14:47.856] Returning an empty list because completion was requested in an invalid position.
+Info 1094 [13:14:48.372] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1095 [13:14:48.380] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 117 structureChanged: false Elapsed: 7.425919000059366ms
+Info 1096 [13:14:48.380] Different program with same set of files:: structureIsReused:: 2
+Info 1097 [13:14:49.610] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1098 [13:14:49.620] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 118 structureChanged: false Elapsed: 9.485735001042485ms
+Info 1099 [13:14:49.620] Different program with same set of files:: structureIsReused:: 2
+Info 1100 [13:14:49.620] getCompletionData: Get current token: 0.015802999958395958
+Info 1101 [13:14:49.620] getCompletionData: Is inside comment: 0.0031139999628067017
+Info 1102 [13:14:49.620] getCompletionData: Get previous token 1: 0.04689200036227703
+Info 1103 [13:14:49.621] getCompletionsAtPosition: isCompletionListBlocker: 0.06775300018489361
+Info 1104 [13:14:49.621] Returning an empty list because completion was requested in an invalid position.
+Info 1105 [13:14:49.622] getCompletionData: Get current token: 0.019948000088334084
+Info 1106 [13:14:49.622] getCompletionData: Is inside comment: 0.0031109992414712906
+Info 1107 [13:14:49.622] getCompletionData: Get previous token 1: 0.03365499898791313
+Info 1108 [13:14:49.622] getCompletionsAtPosition: isCompletionListBlocker: 0.012532999739050865
+Info 1109 [13:14:49.622] Returning an empty list because completion was requested in an invalid position.
+Info 1110 [13:14:49.623] getCompletionData: Get current token: 0.01284400001168251
+Info 1111 [13:14:49.623] getCompletionData: Is inside comment: 0.0027959998697042465
+Info 1112 [13:14:49.623] getCompletionData: Get previous token 1: 0.037728000432252884
+Info 1113 [13:14:49.623] getCompletionsAtPosition: isCompletionListBlocker: 0.011005999520421028
+Info 1114 [13:14:49.623] Returning an empty list because completion was requested in an invalid position.
+Info 1115 [13:14:50.842] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1116 [13:14:50.853] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 119 structureChanged: false Elapsed: 10.89563100039959ms
+Info 1117 [13:14:50.853] Different program with same set of files:: structureIsReused:: 2
+Info 1118 [13:14:50.854] getCompletionData: Get current token: 0.02680100128054619
+Info 1119 [13:14:50.854] getCompletionData: Is inside comment: 0.005317999050021172
+Info 1120 [13:14:50.854] getCompletionData: Get previous token 1: 0.07727399840950966
+Info 1121 [13:14:50.855] getCompletionsAtPosition: isCompletionListBlocker: 0.09057699888944626
+Info 1122 [13:14:50.855] Returning an empty list because completion was requested in an invalid position.
+Info 1123 [13:14:50.856] getCompletionData: Get current token: 0.0165570005774498
+Info 1124 [13:14:50.856] getCompletionData: Is inside comment: 0.00342399999499321
+Info 1125 [13:14:50.856] getCompletionData: Get previous token 1: 0.04158099927008152
+Info 1126 [13:14:50.856] getCompletionsAtPosition: isCompletionListBlocker: 0.01543399877846241
+Info 1127 [13:14:50.856] Returning an empty list because completion was requested in an invalid position.
+Info 1128 [13:14:50.857] getCompletionData: Get current token: 0.016054999083280563
+Info 1129 [13:14:50.857] getCompletionData: Is inside comment: 0.003367999568581581
+Info 1130 [13:14:50.857] getCompletionData: Get previous token 1: 0.042030999436974525
+Info 1131 [13:14:50.857] getCompletionsAtPosition: isCompletionListBlocker: 0.012533999979496002
+Info 1132 [13:14:50.857] Returning an empty list because completion was requested in an invalid position.
+Info 1133 [13:14:51.336] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1134 [13:14:51.347] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 120 structureChanged: false Elapsed: 10.970146000385284ms
+Info 1135 [13:14:51.347] Different program with same set of files:: structureIsReused:: 2
+Info 1136 [13:14:55.550] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1137 [13:14:55.561] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 121 structureChanged: false Elapsed: 10.595327001065016ms
+Info 1138 [13:14:55.561] Different program with same set of files:: structureIsReused:: 2
+Info 1139 [13:14:56.928] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1140 [13:14:56.938] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 122 structureChanged: false Elapsed: 8.96212499961257ms
+Info 1141 [13:14:56.938] Different program with same set of files:: structureIsReused:: 2
+Info 1142 [13:14:57.286] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1143 [13:14:57.294] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 123 structureChanged: false Elapsed: 7.663346000015736ms
+Info 1144 [13:14:57.294] Different program with same set of files:: structureIsReused:: 2
+Info 1145 [13:15:05.617] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1146 [13:15:05.626] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 124 structureChanged: false Elapsed: 8.85512800142169ms
+Info 1147 [13:15:05.626] Different program with same set of files:: structureIsReused:: 2
+Info 1148 [13:15:05.627] getCompletionData: Get current token: 0.010444000363349915
+Info 1149 [13:15:05.627] getCompletionData: Is inside comment: 0.0021519996225833893
+Info 1150 [13:15:05.627] getCompletionData: Get previous token 1: 0.03022100031375885
+Info 1151 [13:15:05.627] getCompletionsAtPosition: isCompletionListBlocker: 0.036685001105070114
+Info 1152 [13:15:05.627] Returning an empty list because completion was requested in an invalid position.
+Info 1153 [13:15:05.628] getCompletionData: Get current token: 0.007874000817537308
+Info 1154 [13:15:05.628] getCompletionData: Is inside comment: 0.002032998949289322
+Info 1155 [13:15:05.628] getCompletionData: Get previous token 1: 0.020593998953700066
+Info 1156 [13:15:05.628] getCompletionsAtPosition: isCompletionListBlocker: 0.011775000020861626
+Info 1157 [13:15:05.628] Returning an empty list because completion was requested in an invalid position.
+Info 1158 [13:15:05.638] getCompletionData: Get current token: 0.01678299903869629
+Info 1159 [13:15:05.639] getCompletionData: Is inside comment: 0.003593999892473221
+Info 1160 [13:15:05.639] getCompletionData: Get previous token 1: 0.040415000170469284
+Info 1161 [13:15:05.639] getCompletionsAtPosition: isCompletionListBlocker: 0.02053700014948845
+Info 1162 [13:15:05.639] Returning an empty list because completion was requested in an invalid position.
+Info 1163 [13:15:07.050] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1164 [13:15:07.057] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 125 structureChanged: false Elapsed: 6.9007000010460615ms
+Info 1165 [13:15:07.057] Different program with same set of files:: structureIsReused:: 2
+Info 1166 [13:15:07.057] getCompletionData: Get current token: 0.009503999724984169
+Info 1167 [13:15:07.057] getCompletionData: Is inside comment: 0.0019940007477998734
+Info 1168 [13:15:07.057] getCompletionData: Get previous token 1: 0.029488999396562576
+Info 1169 [13:15:07.057] getCompletionsAtPosition: isCompletionListBlocker: 0.041818998754024506
+Info 1170 [13:15:07.057] Returning an empty list because completion was requested in an invalid position.
+Info 1171 [13:15:07.058] getCompletionData: Get current token: 0.010399000719189644
+Info 1172 [13:15:07.059] getCompletionData: Is inside comment: 0.002856999635696411
+Info 1173 [13:15:07.059] getCompletionData: Get previous token 1: 0.026789000257849693
+Info 1174 [13:15:07.059] getCompletionsAtPosition: isCompletionListBlocker: 0.013062000274658203
+Info 1175 [13:15:07.059] Returning an empty list because completion was requested in an invalid position.
+Info 1176 [13:15:07.059] getCompletionData: Get current token: 0.007689999416470528
+Info 1177 [13:15:07.059] getCompletionData: Is inside comment: 0.0018039997667074203
+Info 1178 [13:15:07.059] getCompletionData: Get previous token 1: 0.019807999953627586
+Info 1179 [13:15:07.059] getCompletionsAtPosition: isCompletionListBlocker: 0.006909999996423721
+Info 1180 [13:15:07.059] Returning an empty list because completion was requested in an invalid position.
+Info 1181 [13:15:10.770] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1182 [13:15:10.785] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 126 structureChanged: false Elapsed: 15.143536999821663ms
+Info 1183 [13:15:10.785] Different program with same set of files:: structureIsReused:: 2
+Info 1184 [13:15:16.293] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1185 [13:15:16.302] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 127 structureChanged: false Elapsed: 9.335428999736905ms
+Info 1186 [13:15:16.303] Different program with same set of files:: structureIsReused:: 2
+Info 1187 [13:15:16.303] getCompletionData: Get current token: 0.01172499917447567
+Info 1188 [13:15:16.303] getCompletionData: Is inside comment: 0.002384999766945839
+Info 1189 [13:15:16.303] getCompletionData: Get previous token 1: 0.039451999589800835
+Info 1190 [13:15:16.303] getCompletionsAtPosition: isCompletionListBlocker: 0.05198400095105171
+Info 1191 [13:15:16.303] Returning an empty list because completion was requested in an invalid position.
+Info 1192 [13:15:16.304] getCompletionData: Get current token: 0.009531999006867409
+Info 1193 [13:15:16.304] getCompletionData: Is inside comment: 0.0023159999400377274
+Info 1194 [13:15:16.304] getCompletionData: Get previous token 1: 0.025303000584244728
+Info 1195 [13:15:16.304] getCompletionsAtPosition: isCompletionListBlocker: 0.011909998953342438
+Info 1196 [13:15:16.304] Returning an empty list because completion was requested in an invalid position.
+Info 1197 [13:15:16.325] getCompletionData: Get current token: 0.009004000574350357
+Info 1198 [13:15:16.325] getCompletionData: Is inside comment: 0.0021150000393390656
+Info 1199 [13:15:16.326] getCompletionData: Get previous token 1: 0.021934999153017998
+Info 1200 [13:15:16.326] getCompletionsAtPosition: isCompletionListBlocker: 0.014601999893784523
+Info 1201 [13:15:16.326] Returning an empty list because completion was requested in an invalid position.
+Info 1202 [13:15:18.061] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1203 [13:15:18.067] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 128 structureChanged: false Elapsed: 5.553215999156237ms
+Info 1204 [13:15:18.067] Different program with same set of files:: structureIsReused:: 2
+Info 1205 [13:15:18.067] getCompletionData: Get current token: 0.009672999382019043
+Info 1206 [13:15:18.067] getCompletionData: Is inside comment: 0.001892000436782837
+Info 1207 [13:15:18.067] getCompletionData: Get previous token 1: 0.030511999502778053
+Info 1208 [13:15:18.067] getCompletionsAtPosition: isCompletionListBlocker: 0.03904999978840351
+Info 1209 [13:15:18.067] Returning an empty list because completion was requested in an invalid position.
+Info 1210 [13:15:18.068] getCompletionData: Get current token: 0.008395999670028687
+Info 1211 [13:15:18.068] getCompletionData: Is inside comment: 0.0018239989876747131
+Info 1212 [13:15:18.068] getCompletionData: Get previous token 1: 0.02095000073313713
+Info 1213 [13:15:18.068] getCompletionsAtPosition: isCompletionListBlocker: 0.009693998843431473
+Info 1214 [13:15:18.068] Returning an empty list because completion was requested in an invalid position.
+Info 1215 [13:15:18.069] getCompletionData: Get current token: 0.008264001458883286
+Info 1216 [13:15:18.069] getCompletionData: Is inside comment: 0.0019209999591112137
+Info 1217 [13:15:18.069] getCompletionData: Get previous token 1: 0.021376999095082283
+Info 1218 [13:15:18.069] getCompletionsAtPosition: isCompletionListBlocker: 0.007275000214576721
+Info 1219 [13:15:18.069] Returning an empty list because completion was requested in an invalid position.
+Info 1220 [13:15:18.777] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1221 [13:15:18.782] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 129 structureChanged: false Elapsed: 5.687520999461412ms
+Info 1222 [13:15:18.782] Different program with same set of files:: structureIsReused:: 2
+Info 1223 [13:15:18.783] getCompletionData: Get current token: 0.020401999354362488
+Info 1224 [13:15:18.783] getCompletionData: Is inside comment: 0.004202999174594879
+Info 1225 [13:15:18.783] getCompletionData: Get previous token 1: 0.06091099977493286
+Info 1226 [13:15:18.783] getCompletionsAtPosition: isCompletionListBlocker: 0.08038299903273582
+Info 1227 [13:15:18.783] Returning an empty list because completion was requested in an invalid position.
+Info 1228 [13:15:18.784] getCompletionData: Get current token: 0.008520001545548439
+Info 1229 [13:15:18.784] getCompletionData: Is inside comment: 0.0019669998437166214
+Info 1230 [13:15:18.784] getCompletionData: Get previous token 1: 0.023641999810934067
+Info 1231 [13:15:18.784] getCompletionsAtPosition: isCompletionListBlocker: 0.011122999712824821
+Info 1232 [13:15:18.784] Returning an empty list because completion was requested in an invalid position.
+Info 1233 [13:15:18.785] getCompletionData: Get current token: 0.008261999115347862
+Info 1234 [13:15:18.785] getCompletionData: Is inside comment: 0.0019219983369112015
+Info 1235 [13:15:18.785] getCompletionData: Get previous token 1: 0.02124599926173687
+Info 1236 [13:15:18.785] getCompletionsAtPosition: isCompletionListBlocker: 0.00727199949324131
+Info 1237 [13:15:18.785] Returning an empty list because completion was requested in an invalid position.
+Info 1238 [13:15:19.062] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1239 [13:15:19.068] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 130 structureChanged: false Elapsed: 5.67709899879992ms
+Info 1240 [13:15:19.068] Different program with same set of files:: structureIsReused:: 2
+Info 1241 [13:15:19.757] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1242 [13:15:19.769] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 131 structureChanged: false Elapsed: 11.271418001502752ms
+Info 1243 [13:15:19.769] Different program with same set of files:: structureIsReused:: 2
+Info 1244 [13:15:35.747] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1245 [13:15:35.763] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 132 structureChanged: false Elapsed: 15.952541999518871ms
+Info 1246 [13:15:35.763] Different program with same set of files:: structureIsReused:: 2
+Info 1247 [13:15:54.504] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1248 [13:15:54.520] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 133 structureChanged: false Elapsed: 16.200798001140356ms
+Info 1249 [13:15:54.520] Different program with same set of files:: structureIsReused:: 2
+Info 1250 [13:16:20.507] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1251 [13:16:20.519] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 134 structureChanged: false Elapsed: 12.04437099955976ms
+Info 1252 [13:16:20.519] Different program with same set of files:: structureIsReused:: 2
+Info 1253 [13:16:20.522] getCompletionData: Get current token: 0.027022000402212143
+Info 1254 [13:16:20.522] getCompletionData: Is inside comment: 0.008142000064253807
+Info 1255 [13:16:20.522] getCompletionData: Get previous token 1: 0.07537000067532063
+Info 1256 [13:16:20.522] getCompletionsAtPosition: isCompletionListBlocker: 0.43079799972474575
+Info 1257 [13:16:20.522] Returning an empty list because completion was requested in an invalid position.
+Info 1258 [13:16:20.525] getCompletionData: Get current token: 0.008215999230742455
+Info 1259 [13:16:20.525] getCompletionData: Is inside comment: 0.0021720007061958313
+Info 1260 [13:16:20.525] getCompletionData: Get previous token 1: 0.023831000551581383
+Info 1261 [13:16:20.525] getCompletionsAtPosition: isCompletionListBlocker: 0.011369999498128891
+Info 1262 [13:16:20.525] Returning an empty list because completion was requested in an invalid position.
+Info 1263 [13:16:20.538] getCompletionData: Get current token: 0.011831000447273254
+Info 1264 [13:16:20.538] getCompletionData: Is inside comment: 0.002375999465584755
+Info 1265 [13:16:20.538] getCompletionData: Get previous token 1: 0.020812999457120895
+Info 1266 [13:16:20.538] getCompletionsAtPosition: isCompletionListBlocker: 0.008580001071095467
+Info 1267 [13:16:20.538] Returning an empty list because completion was requested in an invalid position.
+Info 1268 [13:16:22.222] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1269 [13:16:22.240] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 135 structureChanged: false Elapsed: 18.446051999926567ms
+Info 1270 [13:16:22.241] Different program with same set of files:: structureIsReused:: 2
+Info 1271 [13:16:22.242] getCompletionData: Get current token: 0.019435999915003777
+Info 1272 [13:16:22.242] getCompletionData: Is inside comment: 0.007064001634716988
+Info 1273 [13:16:22.242] getCompletionData: Get previous token 1: 0.06778199970722198
+Info 1274 [13:16:22.242] getCompletionsAtPosition: isCompletionListBlocker: 0.09209799952805042
+Info 1275 [13:16:22.242] Returning an empty list because completion was requested in an invalid position.
+Info 1276 [13:16:22.246] getCompletionData: Get current token: 0.0076959989964962006
+Info 1277 [13:16:22.246] getCompletionData: Is inside comment: 0.003915000706911087
+Info 1278 [13:16:22.246] getCompletionData: Get previous token 1: 0.02062699943780899
+Info 1279 [13:16:22.246] getCompletionsAtPosition: isCompletionListBlocker: 0.016107000410556793
+Info 1280 [13:16:22.246] Returning an empty list because completion was requested in an invalid position.
+Info 1281 [13:16:22.265] getCompletionData: Get current token: 0.010485000908374786
+Info 1282 [13:16:22.265] getCompletionData: Is inside comment: 0.0026019997894763947
+Info 1283 [13:16:22.265] getCompletionData: Get previous token 1: 0.028377000242471695
+Info 1284 [13:16:22.265] getCompletionsAtPosition: isCompletionListBlocker: 0.01941700093448162
+Info 1285 [13:16:22.265] Returning an empty list because completion was requested in an invalid position.
+Info 1286 [13:16:40.666] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1287 [13:16:40.677] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 136 structureChanged: false Elapsed: 11.304743999615312ms
+Info 1288 [13:16:40.677] Different program with same set of files:: structureIsReused:: 2
+Info 1289 [13:16:40.678] getCompletionData: Get current token: 0.019783999770879745
+Info 1290 [13:16:40.678] getCompletionData: Is inside comment: 0.004247000440955162
+Info 1291 [13:16:40.678] getCompletionData: Get previous token 1: 0.05946900136768818
+Info 1292 [13:16:40.678] getCompletionsAtPosition: isCompletionListBlocker: 0.07963399961590767
+Info 1293 [13:16:40.678] Returning an empty list because completion was requested in an invalid position.
+Info 1294 [13:16:40.680] getCompletionData: Get current token: 0.01625099964439869
+Info 1295 [13:16:40.680] getCompletionData: Is inside comment: 0.004125999286770821
+Info 1296 [13:16:40.680] getCompletionData: Get previous token 1: 0.04245599918067455
+Info 1297 [13:16:40.680] getCompletionsAtPosition: isCompletionListBlocker: 0.01793000102043152
+Info 1298 [13:16:40.680] Returning an empty list because completion was requested in an invalid position.
+Info 1299 [13:16:40.681] getCompletionData: Get current token: 0.016081999987363815
+Info 1300 [13:16:40.681] getCompletionData: Is inside comment: 0.004196999594569206
+Info 1301 [13:16:40.681] getCompletionData: Get previous token 1: 0.043323999270796776
+Info 1302 [13:16:40.681] getCompletionsAtPosition: isCompletionListBlocker: 0.016423000022768974
+Info 1303 [13:16:40.681] Returning an empty list because completion was requested in an invalid position.
+Info 1304 [13:16:41.517] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1305 [13:16:41.528] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 137 structureChanged: false Elapsed: 11.465592000633478ms
+Info 1306 [13:16:41.528] Different program with same set of files:: structureIsReused:: 2
+Info 1307 [13:16:41.529] getCompletionData: Get current token: 0.016525998711586
+Info 1308 [13:16:41.529] getCompletionData: Is inside comment: 0.0028259996324777603
+Info 1309 [13:16:41.529] getCompletionData: Get previous token 1: 0.0385500006377697
+Info 1310 [13:16:41.529] getCompletionsAtPosition: isCompletionListBlocker: 0.053713999688625336
+Info 1311 [13:16:41.529] Returning an empty list because completion was requested in an invalid position.
+Info 1312 [13:16:41.530] getCompletionData: Get current token: 0.008314000442624092
+Info 1313 [13:16:41.530] getCompletionData: Is inside comment: 0.001847999170422554
+Info 1314 [13:16:41.530] getCompletionData: Get previous token 1: 0.02133900113403797
+Info 1315 [13:16:41.530] getCompletionsAtPosition: isCompletionListBlocker: 0.010532001033425331
+Info 1316 [13:16:41.530] Returning an empty list because completion was requested in an invalid position.
+Info 1317 [13:16:41.531] getCompletionData: Get current token: 0.007527001202106476
+Info 1318 [13:16:41.531] getCompletionData: Is inside comment: 0.0017390009015798569
+Info 1319 [13:16:41.531] getCompletionData: Get previous token 1: 0.022843999788165092
+Info 1320 [13:16:41.531] getCompletionsAtPosition: isCompletionListBlocker: 0.008867999538779259
+Info 1321 [13:16:41.531] Returning an empty list because completion was requested in an invalid position.
+Info 1322 [13:16:47.251] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1323 [13:16:47.258] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 138 structureChanged: false Elapsed: 6.980759000405669ms
+Info 1324 [13:16:47.258] Different program with same set of files:: structureIsReused:: 2
+Info 1325 [13:16:47.258] getCompletionData: Get current token: 0.009563999250531197
+Info 1326 [13:16:47.258] getCompletionData: Is inside comment: 0.0019640009850263596
+Info 1327 [13:16:47.258] getCompletionData: Get previous token 1: 0.029872000217437744
+Info 1328 [13:16:47.259] getCompletionsAtPosition: isCompletionListBlocker: 0.04212099872529507
+Info 1329 [13:16:47.259] Returning an empty list because completion was requested in an invalid position.
+Info 1330 [13:16:47.259] getCompletionData: Get current token: 0.00832500122487545
+Info 1331 [13:16:47.259] getCompletionData: Is inside comment: 0.0019860006868839264
+Info 1332 [13:16:47.259] getCompletionData: Get previous token 1: 0.02105099894106388
+Info 1333 [13:16:47.260] getCompletionsAtPosition: isCompletionListBlocker: 0.010923000052571297
+Info 1334 [13:16:47.260] Returning an empty list because completion was requested in an invalid position.
+Info 1335 [13:16:47.260] getCompletionData: Get current token: 0.007959000766277313
+Info 1336 [13:16:47.260] getCompletionData: Is inside comment: 0.002353999763727188
+Info 1337 [13:16:47.260] getCompletionData: Get previous token 1: 0.028988000005483627
+Info 1338 [13:16:47.260] getCompletionsAtPosition: isCompletionListBlocker: 0.008361000567674637
+Info 1339 [13:16:47.260] Returning an empty list because completion was requested in an invalid position.

@@ -215,7 +215,10 @@ export default class Intro extends Component<Props, State> {
         >
           制图机单图片处理引擎无需登录，不上传图片到服务器，请放心使用
           <p style={{ fontSize: '0.8em', mb: 0, pb: 0 }}>
-            图片在浏览器中处理，性能由您的PC配置决定。如需使用批量处理和图片工作流功能，登录或注册帐号
+            本引擎提供智能压缩、尺寸调整与格式转换功能，如需更多处理功能、多图片批量处理和图片工作流，请登录或注册帐号后使用
+          </p>
+          <p style={{ fontSize: '0.8em', mb: 0, pb: 0 }}>
+            图片在浏览器中处理，性能由您的PC配置决定
           </p>
         </div>
 
