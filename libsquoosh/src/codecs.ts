@@ -283,7 +283,7 @@ export const preprocessors = {
 
 export const codecs = {
   mozjpeg: {
-    name: 'MozJPEG',
+    name: 'JPEG - Moz压缩算法',
     extension: 'jpg',
     detectors: [/^\xFF\xD8\xFF/],
     dec: () =>

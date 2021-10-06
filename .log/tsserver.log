@@ -1778,3 +1778,659 @@ Info 1411 [12:49:26.658] getCompletionData: Is inside comment: 0.003248989582061
 Info 1412 [12:49:26.659] getCompletionData: Get previous token 1: 0.030320018529891968
 Info 1413 [12:49:26.659] getCompletionsAtPosition: isCompletionListBlocker: 0.021126002073287964
 Info 1414 [12:49:26.659] Returning an empty list because completion was requested in an invalid position.
+Info 1415 [09:53:23.950] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1416 [09:53:23.972] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 154 structureChanged: false Elapsed: 21.954893946647644ms
+Info 1417 [09:53:23.972] Different program with same set of files:: structureIsReused:: 2
+Info 1418 [09:54:44.756] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1419 [09:54:44.772] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 155 structureChanged: false Elapsed: 15.802141010761261ms
+Info 1420 [09:54:44.772] Different program with same set of files:: structureIsReused:: 2
+Info 1421 [09:54:47.536] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1422 [09:54:47.553] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 156 structureChanged: false Elapsed: 16.497438967227936ms
+Info 1423 [09:54:47.553] Different program with same set of files:: structureIsReused:: 2
+Info 1424 [09:55:18.673] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1425 [09:55:18.687] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 157 structureChanged: false Elapsed: 14.16703599691391ms
+Info 1426 [09:55:18.687] Different program with same set of files:: structureIsReused:: 2
+Info 1427 [09:55:40.941] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1428 [09:55:40.953] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 158 structureChanged: false Elapsed: 11.443050980567932ms
+Info 1429 [09:55:40.953] Different program with same set of files:: structureIsReused:: 2
+Info 1430 [09:55:44.234] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1431 [09:55:44.241] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 159 structureChanged: false Elapsed: 6.755747020244598ms
+Info 1432 [09:55:44.241] Different program with same set of files:: structureIsReused:: 2
+Info 1433 [09:56:11.877] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1434 [09:56:11.888] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 160 structureChanged: false Elapsed: 11.55929696559906ms
+Info 1435 [09:56:11.888] Different program with same set of files:: structureIsReused:: 2
+Info 1436 [09:56:12.102] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1437 [09:56:12.119] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 161 structureChanged: false Elapsed: 16.938477039337158ms
+Info 1438 [09:56:12.119] Different program with same set of files:: structureIsReused:: 2
+Info 1439 [09:56:12.421] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1440 [09:56:12.431] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 162 structureChanged: false Elapsed: 9.700554013252258ms
+Info 1441 [09:56:12.431] Different program with same set of files:: structureIsReused:: 2
+Info 1442 [09:56:13.292] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1443 [09:56:13.302] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 163 structureChanged: false Elapsed: 9.780728995800018ms
+Info 1444 [09:56:13.302] Different program with same set of files:: structureIsReused:: 2
+Info 1445 [09:56:14.970] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1446 [09:56:14.976] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 164 structureChanged: false Elapsed: 6.633731961250305ms
+Info 1447 [09:56:14.976] Different program with same set of files:: structureIsReused:: 2
+Info 1448 [09:56:14.978] getCompletionData: Get current token: 0.014409005641937256
+Info 1449 [09:56:14.978] getCompletionData: Is inside comment: 0.0038529634475708008
+Info 1450 [09:56:14.978] getCompletionData: Get previous token 1: 0.03689199686050415
+Info 1451 [09:56:14.978] getCompletionsAtPosition: isCompletionListBlocker: 0.25947898626327515
+Info 1452 [09:56:14.978] Returning an empty list because completion was requested in an invalid position.
+Info 1453 [09:56:14.981] getCompletionData: Get current token: 0.009846985340118408
+Info 1454 [09:56:14.981] getCompletionData: Is inside comment: 0.0025200247764587402
+Info 1455 [09:56:14.981] getCompletionData: Get previous token 1: 0.029535949230194092
+Info 1456 [09:56:14.981] getCompletionsAtPosition: isCompletionListBlocker: 0.01434403657913208
+Info 1457 [09:56:14.981] Returning an empty list because completion was requested in an invalid position.
+Info 1458 [09:56:14.982] getCompletionData: Get current token: 0.0076490044593811035
+Info 1459 [09:56:14.982] getCompletionData: Is inside comment: 0.0023959875106811523
+Info 1460 [09:56:14.982] getCompletionData: Get previous token 1: 0.01903301477432251
+Info 1461 [09:56:14.982] getCompletionsAtPosition: isCompletionListBlocker: 0.009670019149780273
+Info 1462 [09:56:14.982] Returning an empty list because completion was requested in an invalid position.
+Info 1463 [09:56:15.771] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1464 [09:56:15.792] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 165 structureChanged: false Elapsed: 20.897239983081818ms
+Info 1465 [09:56:15.792] Different program with same set of files:: structureIsReused:: 2
+Info 1466 [09:56:17.472] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1467 [09:56:17.478] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 166 structureChanged: false Elapsed: 5.943445980548859ms
+Info 1468 [09:56:17.478] Different program with same set of files:: structureIsReused:: 2
+Info 1469 [09:56:17.478] getCompletionData: Get current token: 0.008713960647583008
+Info 1470 [09:56:17.478] getCompletionData: Is inside comment: 0.002436995506286621
+Info 1471 [09:56:17.478] getCompletionData: Get previous token 1: 0.02723097801208496
+Info 1472 [09:56:17.478] getCompletionsAtPosition: isCompletionListBlocker: 0.04377096891403198
+Info 1473 [09:56:17.478] Returning an empty list because completion was requested in an invalid position.
+Info 1474 [09:56:17.482] getCompletionData: Get current token: 0.012445986270904541
+Info 1475 [09:56:17.482] getCompletionData: Is inside comment: 0.005629003047943115
+Info 1476 [09:56:17.482] getCompletionData: Get previous token 1: 0.032012999057769775
+Info 1477 [09:56:17.482] getCompletionsAtPosition: isCompletionListBlocker: 0.020798027515411377
+Info 1478 [09:56:17.482] Returning an empty list because completion was requested in an invalid position.
+Info 1479 [09:56:17.484] getCompletionData: Get current token: 0.013895988464355469
+Info 1480 [09:56:17.484] getCompletionData: Is inside comment: 0.003965020179748535
+Info 1481 [09:56:17.484] getCompletionData: Get previous token 1: 0.039456963539123535
+Info 1482 [09:56:17.484] getCompletionsAtPosition: isCompletionListBlocker: 0.02006000280380249
+Info 1483 [09:56:17.484] Returning an empty list because completion was requested in an invalid position.
+Info 1484 [09:56:18.040] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1485 [09:56:18.047] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 167 structureChanged: false Elapsed: 6.6492080092430115ms
+Info 1486 [09:56:18.047] Different program with same set of files:: structureIsReused:: 2
+Info 1487 [09:56:18.981] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1488 [09:56:18.996] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 168 structureChanged: false Elapsed: 14.186785995960236ms
+Info 1489 [09:56:18.996] Different program with same set of files:: structureIsReused:: 2
+Info 1490 [09:56:18.996] getCompletionData: Get current token: 0.008875012397766113
+Info 1491 [09:56:18.996] getCompletionData: Is inside comment: 0.0021869540214538574
+Info 1492 [09:56:18.996] getCompletionData: Get previous token 1: 0.02745199203491211
+Info 1493 [09:56:18.996] getCompletionsAtPosition: isCompletionListBlocker: 0.041185975074768066
+Info 1494 [09:56:18.996] Returning an empty list because completion was requested in an invalid position.
+Info 1495 [09:56:18.997] getCompletionData: Get current token: 0.0073670148849487305
+Info 1496 [09:56:18.997] getCompletionData: Is inside comment: 0.002062976360321045
+Info 1497 [09:56:18.997] getCompletionData: Get previous token 1: 0.020116984844207764
+Info 1498 [09:56:18.997] getCompletionsAtPosition: isCompletionListBlocker: 0.027550995349884033
+Info 1499 [09:56:18.997] Returning an empty list because completion was requested in an invalid position.
+Info 1500 [09:56:19.018] getCompletionData: Get current token: 0.008264005184173584
+Info 1501 [09:56:19.018] getCompletionData: Is inside comment: 0.002232968807220459
+Info 1502 [09:56:19.018] getCompletionData: Get previous token 1: 0.020662009716033936
+Info 1503 [09:56:19.018] getCompletionsAtPosition: isCompletionListBlocker: 0.018498003482818604
+Info 1504 [09:56:19.018] Returning an empty list because completion was requested in an invalid position.
+Info 1505 [09:56:20.174] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1506 [09:56:20.180] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 169 structureChanged: false Elapsed: 6.546002984046936ms
+Info 1507 [09:56:20.180] Different program with same set of files:: structureIsReused:: 2
+Info 1508 [09:56:20.180] getCompletionData: Get current token: 0.009184956550598145
+Info 1509 [09:56:20.181] getCompletionData: Is inside comment: 0.0021979808807373047
+Info 1510 [09:56:20.181] getCompletionData: Get previous token 1: 0.02720499038696289
+Info 1511 [09:56:20.181] getCompletionsAtPosition: isCompletionListBlocker: 0.043569982051849365
+Info 1512 [09:56:20.181] Returning an empty list because completion was requested in an invalid position.
+Info 1513 [09:56:20.182] getCompletionData: Get current token: 0.012748003005981445
+Info 1514 [09:56:20.182] getCompletionData: Is inside comment: 0.002547025680541992
+Info 1515 [09:56:20.182] getCompletionData: Get previous token 1: 0.02463698387145996
+Info 1516 [09:56:20.182] getCompletionsAtPosition: isCompletionListBlocker: 0.01978999376296997
+Info 1517 [09:56:20.182] Returning an empty list because completion was requested in an invalid position.
+Info 1518 [09:56:20.182] getCompletionData: Get current token: 0.007194042205810547
+Info 1519 [09:56:20.182] getCompletionData: Is inside comment: 0.0018250346183776855
+Info 1520 [09:56:20.183] getCompletionData: Get previous token 1: 0.018626034259796143
+Info 1521 [09:56:20.183] getCompletionsAtPosition: isCompletionListBlocker: 0.011439979076385498
+Info 1522 [09:56:20.183] Returning an empty list because completion was requested in an invalid position.
+Info 1523 [09:56:23.481] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1524 [09:56:23.487] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 170 structureChanged: false Elapsed: 5.979499995708466ms
+Info 1525 [09:56:23.487] Different program with same set of files:: structureIsReused:: 2
+Info 1526 [09:56:23.487] getCompletionData: Get current token: 0.009051024913787842
+Info 1527 [09:56:23.487] getCompletionData: Is inside comment: 0.0022950172424316406
+Info 1528 [09:56:23.487] getCompletionData: Get previous token 1: 0.027542948722839355
+Info 1529 [09:56:23.487] getCompletionsAtPosition: isCompletionListBlocker: 0.04100698232650757
+Info 1530 [09:56:23.487] Returning an empty list because completion was requested in an invalid position.
+Info 1531 [09:56:23.488] getCompletionData: Get current token: 0.007924020290374756
+Info 1532 [09:56:23.488] getCompletionData: Is inside comment: 0.0020929574966430664
+Info 1533 [09:56:23.488] getCompletionData: Get previous token 1: 0.01945197582244873
+Info 1534 [09:56:23.488] getCompletionsAtPosition: isCompletionListBlocker: 0.010800957679748535
+Info 1535 [09:56:23.488] Returning an empty list because completion was requested in an invalid position.
+Info 1536 [09:56:23.489] getCompletionData: Get current token: 0.007955014705657959
+Info 1537 [09:56:23.489] getCompletionData: Is inside comment: 0.0019899606704711914
+Info 1538 [09:56:23.489] getCompletionData: Get previous token 1: 0.02009594440460205
+Info 1539 [09:56:23.489] getCompletionsAtPosition: isCompletionListBlocker: 0.007523000240325928
+Info 1540 [09:56:23.489] Returning an empty list because completion was requested in an invalid position.
+Info 1541 [09:56:25.046] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1542 [09:56:25.061] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 171 structureChanged: false Elapsed: 14.390403985977173ms
+Info 1543 [09:56:25.061] Different program with same set of files:: structureIsReused:: 2
+Info 1544 [09:56:26.799] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1545 [09:56:26.812] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 172 structureChanged: false Elapsed: 12.272050023078918ms
+Info 1546 [09:56:26.812] Different program with same set of files:: structureIsReused:: 2
+Info 1547 [09:56:26.812] getCompletionData: Get current token: 0.016896963119506836
+Info 1548 [09:56:26.812] getCompletionData: Is inside comment: 0.006155967712402344
+Info 1549 [09:56:26.812] getCompletionData: Get previous token 1: 0.0512470006942749
+Info 1550 [09:56:26.813] getCompletionsAtPosition: isCompletionListBlocker: 0.0678749680519104
+Info 1551 [09:56:26.813] Returning an empty list because completion was requested in an invalid position.
+Info 1552 [09:56:26.815] getCompletionData: Get current token: 0.009564995765686035
+Info 1553 [09:56:26.815] getCompletionData: Is inside comment: 0.002460002899169922
+Info 1554 [09:56:26.816] getCompletionData: Get previous token 1: 0.024632036685943604
+Info 1555 [09:56:26.816] getCompletionsAtPosition: isCompletionListBlocker: 0.018233001232147217
+Info 1556 [09:56:26.816] Returning an empty list because completion was requested in an invalid position.
+Info 1557 [09:56:26.817] getCompletionData: Get current token: 0.014101028442382812
+Info 1558 [09:56:26.817] getCompletionData: Is inside comment: 0.002584993839263916
+Info 1559 [09:56:26.817] getCompletionData: Get previous token 1: 0.02551400661468506
+Info 1560 [09:56:26.817] getCompletionsAtPosition: isCompletionListBlocker: 0.011918962001800537
+Info 1561 [09:56:26.817] Returning an empty list because completion was requested in an invalid position.
+Info 1562 [09:56:28.350] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1563 [09:56:28.357] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 173 structureChanged: false Elapsed: 6.701259970664978ms
+Info 1564 [09:56:28.357] Different program with same set of files:: structureIsReused:: 2
+Info 1565 [09:56:28.357] getCompletionData: Get current token: 0.009082973003387451
+Info 1566 [09:56:28.357] getCompletionData: Is inside comment: 0.0021830201148986816
+Info 1567 [09:56:28.357] getCompletionData: Get previous token 1: 0.028365015983581543
+Info 1568 [09:56:28.357] getCompletionsAtPosition: isCompletionListBlocker: 0.042626023292541504
+Info 1569 [09:56:28.357] Returning an empty list because completion was requested in an invalid position.
+Info 1570 [09:56:28.360] getCompletionData: Get current token: 0.014831960201263428
+Info 1571 [09:56:28.360] getCompletionData: Is inside comment: 0.003773033618927002
+Info 1572 [09:56:28.360] getCompletionData: Get previous token 1: 0.03695201873779297
+Info 1573 [09:56:28.360] getCompletionsAtPosition: isCompletionListBlocker: 0.020392000675201416
+Info 1574 [09:56:28.360] Returning an empty list because completion was requested in an invalid position.
+Info 1575 [09:56:28.361] getCompletionData: Get current token: 0.009926021099090576
+Info 1576 [09:56:28.361] getCompletionData: Is inside comment: 0.0026710033416748047
+Info 1577 [09:56:28.361] getCompletionData: Get previous token 1: 0.02638101577758789
+Info 1578 [09:56:28.361] getCompletionsAtPosition: isCompletionListBlocker: 0.01085197925567627
+Info 1579 [09:56:28.361] Returning an empty list because completion was requested in an invalid position.
+Info 1580 [09:56:28.687] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1581 [09:56:28.703] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 174 structureChanged: false Elapsed: 16.006042957305908ms
+Info 1582 [09:56:28.703] Different program with same set of files:: structureIsReused:: 2
+Info 1583 [09:56:34.156] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1584 [09:56:34.170] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 175 structureChanged: false Elapsed: 13.991550981998444ms
+Info 1585 [09:56:34.170] Different program with same set of files:: structureIsReused:: 2
+Info 1586 [09:56:34.170] getCompletionData: Get current token: 0.011006951332092285
+Info 1587 [09:56:34.170] getCompletionData: Is inside comment: 0.002839982509613037
+Info 1588 [09:56:34.170] getCompletionData: Get previous token 1: 0.03672003746032715
+Info 1589 [09:56:34.171] getCompletionsAtPosition: isCompletionListBlocker: 0.055020034313201904
+Info 1590 [09:56:34.171] Returning an empty list because completion was requested in an invalid position.
+Info 1591 [09:56:34.172] getCompletionData: Get current token: 0.00937199592590332
+Info 1592 [09:56:34.172] getCompletionData: Is inside comment: 0.0021520256996154785
+Info 1593 [09:56:34.172] getCompletionData: Get previous token 1: 0.025530993938446045
+Info 1594 [09:56:34.172] getCompletionsAtPosition: isCompletionListBlocker: 0.011569976806640625
+Info 1595 [09:56:34.172] Returning an empty list because completion was requested in an invalid position.
+Info 1596 [09:56:34.173] getCompletionData: Get current token: 0.0075130462646484375
+Info 1597 [09:56:34.173] getCompletionData: Is inside comment: 0.0016790032386779785
+Info 1598 [09:56:34.173] getCompletionData: Get previous token 1: 0.019048035144805908
+Info 1599 [09:56:34.173] getCompletionsAtPosition: isCompletionListBlocker: 0.006350994110107422
+Info 1600 [09:56:34.173] Returning an empty list because completion was requested in an invalid position.
+Info 1601 [09:56:35.539] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1602 [09:56:35.545] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 176 structureChanged: false Elapsed: 5.6202539801597595ms
+Info 1603 [09:56:35.545] Different program with same set of files:: structureIsReused:: 2
+Info 1604 [09:56:35.546] getCompletionData: Get current token: 0.009288966655731201
+Info 1605 [09:56:35.546] getCompletionData: Is inside comment: 0.002203047275543213
+Info 1606 [09:56:35.546] getCompletionData: Get previous token 1: 0.02810204029083252
+Info 1607 [09:56:35.546] getCompletionsAtPosition: isCompletionListBlocker: 0.04137200117111206
+Info 1608 [09:56:35.546] Returning an empty list because completion was requested in an invalid position.
+Info 1609 [09:56:35.547] getCompletionData: Get current token: 0.007562994956970215
+Info 1610 [09:56:35.547] getCompletionData: Is inside comment: 0.0019519925117492676
+Info 1611 [09:56:35.547] getCompletionData: Get previous token 1: 0.018712997436523438
+Info 1612 [09:56:35.547] getCompletionsAtPosition: isCompletionListBlocker: 0.010594010353088379
+Info 1613 [09:56:35.547] Returning an empty list because completion was requested in an invalid position.
+Info 1614 [09:56:35.548] getCompletionData: Get current token: 0.007521986961364746
+Info 1615 [09:56:35.548] getCompletionData: Is inside comment: 0.0017309784889221191
+Info 1616 [09:56:35.548] getCompletionData: Get previous token 1: 0.019079983234405518
+Info 1617 [09:56:35.548] getCompletionsAtPosition: isCompletionListBlocker: 0.007182002067565918
+Info 1618 [09:56:35.548] Returning an empty list because completion was requested in an invalid position.
+Info 1619 [09:56:36.217] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1620 [09:56:36.224] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 177 structureChanged: false Elapsed: 6.880672037601471ms
+Info 1621 [09:56:36.224] Different program with same set of files:: structureIsReused:: 2
+Info 1622 [09:56:37.644] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1623 [09:56:37.651] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 178 structureChanged: false Elapsed: 6.346825003623962ms
+Info 1624 [09:56:37.651] Different program with same set of files:: structureIsReused:: 2
+Info 1625 [09:56:37.651] getCompletionData: Get current token: 0.00793302059173584
+Info 1626 [09:56:37.651] getCompletionData: Is inside comment: 0.0018700361251831055
+Info 1627 [09:56:37.651] getCompletionData: Get previous token 1: 0.024125993251800537
+Info 1628 [09:56:37.651] getCompletionsAtPosition: isCompletionListBlocker: 0.037322998046875
+Info 1629 [09:56:37.651] Returning an empty list because completion was requested in an invalid position.
+Info 1630 [09:56:37.654] getCompletionData: Get current token: 0.012210965156555176
+Info 1631 [09:56:37.654] getCompletionData: Is inside comment: 0.0031260251998901367
+Info 1632 [09:56:37.654] getCompletionData: Get previous token 1: 0.02996295690536499
+Info 1633 [09:56:37.654] getCompletionsAtPosition: isCompletionListBlocker: 0.015892982482910156
+Info 1634 [09:56:37.654] Returning an empty list because completion was requested in an invalid position.
+Info 1635 [09:56:37.655] getCompletionData: Get current token: 0.011322021484375
+Info 1636 [09:56:37.655] getCompletionData: Is inside comment: 0.002631962299346924
+Info 1637 [09:56:37.655] getCompletionData: Get previous token 1: 0.028052985668182373
+Info 1638 [09:56:37.655] getCompletionsAtPosition: isCompletionListBlocker: 0.016283035278320312
+Info 1639 [09:56:37.655] Returning an empty list because completion was requested in an invalid position.
+Info 1640 [09:56:37.933] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1641 [09:56:37.943] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 179 structureChanged: false Elapsed: 9.719129979610443ms
+Info 1642 [09:56:37.943] Different program with same set of files:: structureIsReused:: 2
+Info 1643 [09:56:38.235] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1644 [09:56:38.243] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 180 structureChanged: false Elapsed: 7.960820019245148ms
+Info 1645 [09:56:38.243] Different program with same set of files:: structureIsReused:: 2
+Info 1646 [09:56:39.246] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1647 [09:56:39.258] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 181 structureChanged: false Elapsed: 12.031877040863037ms
+Info 1648 [09:56:39.258] Different program with same set of files:: structureIsReused:: 2
+Info 1649 [09:56:39.258] getCompletionData: Get current token: 0.016112983226776123
+Info 1650 [09:56:39.258] getCompletionData: Is inside comment: 0.003544032573699951
+Info 1651 [09:56:39.258] getCompletionData: Get previous token 1: 0.04951798915863037
+Info 1652 [09:56:39.258] getCompletionsAtPosition: isCompletionListBlocker: 0.07097601890563965
+Info 1653 [09:56:39.258] Returning an empty list because completion was requested in an invalid position.
+Info 1654 [09:56:39.259] getCompletionData: Get current token: 0.010071992874145508
+Info 1655 [09:56:39.259] getCompletionData: Is inside comment: 0.002780020236968994
+Info 1656 [09:56:39.259] getCompletionData: Get previous token 1: 0.027625977993011475
+Info 1657 [09:56:39.259] getCompletionsAtPosition: isCompletionListBlocker: 0.013566017150878906
+Info 1658 [09:56:39.259] Returning an empty list because completion was requested in an invalid position.
+Info 1659 [09:56:39.268] getCompletionData: Get current token: 0.013809025287628174
+Info 1660 [09:56:39.268] getCompletionData: Is inside comment: 0.004752993583679199
+Info 1661 [09:56:39.268] getCompletionData: Get previous token 1: 0.051344990730285645
+Info 1662 [09:56:39.268] getCompletionsAtPosition: isCompletionListBlocker: 0.019706010818481445
+Info 1663 [09:56:39.268] Returning an empty list because completion was requested in an invalid position.
+Info 1664 [09:56:40.975] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1665 [09:56:40.982] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 182 structureChanged: false Elapsed: 6.646784007549286ms
+Info 1666 [09:56:40.982] Different program with same set of files:: structureIsReused:: 2
+Info 1667 [09:56:40.982] getCompletionData: Get current token: 0.013336002826690674
+Info 1668 [09:56:40.982] getCompletionData: Is inside comment: 0.002229034900665283
+Info 1669 [09:56:40.982] getCompletionData: Get previous token 1: 0.029411017894744873
+Info 1670 [09:56:40.983] getCompletionsAtPosition: isCompletionListBlocker: 0.044183969497680664
+Info 1671 [09:56:40.983] Returning an empty list because completion was requested in an invalid position.
+Info 1672 [09:56:40.983] getCompletionData: Get current token: 0.007947027683258057
+Info 1673 [09:56:40.983] getCompletionData: Is inside comment: 0.0017440319061279297
+Info 1674 [09:56:40.983] getCompletionData: Get previous token 1: 0.01912897825241089
+Info 1675 [09:56:40.983] getCompletionsAtPosition: isCompletionListBlocker: 0.009403049945831299
+Info 1676 [09:56:40.983] Returning an empty list because completion was requested in an invalid position.
+Info 1677 [09:56:40.984] getCompletionData: Get current token: 0.007080972194671631
+Info 1678 [09:56:40.984] getCompletionData: Is inside comment: 0.0017809867858886719
+Info 1679 [09:56:40.984] getCompletionData: Get previous token 1: 0.01857095956802368
+Info 1680 [09:56:40.984] getCompletionsAtPosition: isCompletionListBlocker: 0.007925987243652344
+Info 1681 [09:56:40.984] Returning an empty list because completion was requested in an invalid position.
+Info 1682 [09:56:42.350] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1683 [09:56:42.356] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 183 structureChanged: false Elapsed: 5.3663270473480225ms
+Info 1684 [09:56:42.356] Different program with same set of files:: structureIsReused:: 2
+Info 1685 [09:56:42.356] getCompletionData: Get current token: 0.008760035037994385
+Info 1686 [09:56:42.356] getCompletionData: Is inside comment: 0.002160012722015381
+Info 1687 [09:56:42.356] getCompletionData: Get previous token 1: 0.02810800075531006
+Info 1688 [09:56:42.356] getCompletionsAtPosition: isCompletionListBlocker: 0.04002100229263306
+Info 1689 [09:56:42.356] Returning an empty list because completion was requested in an invalid position.
+Info 1690 [09:56:42.357] getCompletionData: Get current token: 0.008266985416412354
+Info 1691 [09:56:42.357] getCompletionData: Is inside comment: 0.002044975757598877
+Info 1692 [09:56:42.357] getCompletionData: Get previous token 1: 0.01938498020172119
+Info 1693 [09:56:42.357] getCompletionsAtPosition: isCompletionListBlocker: 0.008181989192962646
+Info 1694 [09:56:42.357] Returning an empty list because completion was requested in an invalid position.
+Info 1695 [09:56:42.358] getCompletionData: Get current token: 0.0071509480476379395
+Info 1696 [09:56:42.358] getCompletionData: Is inside comment: 0.0018129944801330566
+Info 1697 [09:56:42.358] getCompletionData: Get previous token 1: 0.018607020378112793
+Info 1698 [09:56:42.358] getCompletionsAtPosition: isCompletionListBlocker: 0.0064849853515625
+Info 1699 [09:56:42.358] Returning an empty list because completion was requested in an invalid position.
+Info 1700 [09:57:28.139] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1701 [09:57:28.158] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 184 structureChanged: false Elapsed: 18.856808960437775ms
+Info 1702 [09:57:28.158] Different program with same set of files:: structureIsReused:: 2
+Info 1703 [09:57:28.481] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1704 [09:57:28.492] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 185 structureChanged: false Elapsed: 11.059358954429626ms
+Info 1705 [09:57:28.492] Different program with same set of files:: structureIsReused:: 2
+Info 1706 [09:57:28.791] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1707 [09:57:28.799] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 186 structureChanged: false Elapsed: 7.47883802652359ms
+Info 1708 [09:57:28.799] Different program with same set of files:: structureIsReused:: 2
+Info 1709 [09:57:28.883] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1710 [09:57:28.900] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 187 structureChanged: false Elapsed: 16.932249009609222ms
+Info 1711 [09:57:28.900] Different program with same set of files:: structureIsReused:: 2
+Info 1712 [09:57:29.615] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1713 [09:57:29.623] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 188 structureChanged: false Elapsed: 7.726889967918396ms
+Info 1714 [09:57:29.623] Different program with same set of files:: structureIsReused:: 2
+Info 1715 [09:57:30.188] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1716 [09:57:30.195] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 189 structureChanged: false Elapsed: 6.954644978046417ms
+Info 1717 [09:57:30.195] Different program with same set of files:: structureIsReused:: 2
+Info 1718 [09:57:30.560] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1719 [09:57:30.575] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 190 structureChanged: false Elapsed: 14.76652204990387ms
+Info 1720 [09:57:30.575] Different program with same set of files:: structureIsReused:: 2
+Info 1721 [09:57:31.052] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1722 [09:57:31.058] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 191 structureChanged: false Elapsed: 5.952901005744934ms
+Info 1723 [09:57:31.058] Different program with same set of files:: structureIsReused:: 2
+Info 1724 [09:57:31.338] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1725 [09:57:31.344] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 192 structureChanged: false Elapsed: 5.460317015647888ms
+Info 1726 [09:57:31.344] Different program with same set of files:: structureIsReused:: 2
+Info 1727 [09:57:31.927] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1728 [09:57:31.940] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 193 structureChanged: false Elapsed: 12.422261953353882ms
+Info 1729 [09:57:31.940] Different program with same set of files:: structureIsReused:: 2
+Info 1730 [09:57:32.440] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1731 [09:57:32.458] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 194 structureChanged: false Elapsed: 18.26808100938797ms
+Info 1732 [09:57:32.458] Different program with same set of files:: structureIsReused:: 2
+Info 1733 [09:57:32.798] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1734 [09:57:32.808] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 195 structureChanged: false Elapsed: 9.858834028244019ms
+Info 1735 [09:57:32.808] Different program with same set of files:: structureIsReused:: 2
+Info 1736 [09:58:10.950] Search path: /home/fqye/projects/zhituji/squoosh/libsquoosh/src
+Info 1737 [09:58:10.950] For info: /home/fqye/projects/zhituji/squoosh/libsquoosh/src/codecs.ts :: Config file name: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1738 [09:58:10.951] Creating configuration project /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1739 [09:58:10.976] Config: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json : {
+ "rootNames": [
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/WebAssembly.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/auto-optimizer.ts",
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/codecs.ts",
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/emscripten-utils.ts",
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/image_data.ts",
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/index.ts",
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/missing-types.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/libsquoosh/src/worker_pool.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/dec/avif_dec.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/dec/avif_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/dec/avif_node_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_enc.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_enc_mt.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_enc_mt.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_enc_mt.worker.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_node_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_node_enc_mt.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/avif/enc/avif_node_enc_mt.worker.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/hqx/pkg/squooshhqx.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/hqx/pkg/squooshhqx.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/imagequant/imagequant.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/imagequant/imagequant.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/imagequant/imagequant_node.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/dec/jxl_dec.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/dec/jxl_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/dec/jxl_node_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc_mt.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc_mt.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc_mt.worker.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc_mt_simd.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc_mt_simd.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_enc_mt_simd.worker.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/jxl/enc/jxl_node_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/mozjpeg/dec/mozjpeg_node_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/mozjpeg/enc/mozjpeg_enc.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/mozjpeg/enc/mozjpeg_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/mozjpeg/enc/mozjpeg_node_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/oxipng/pkg/squoosh_oxipng.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/oxipng/pkg/squoosh_oxipng.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/oxipng/pkg/squoosh_oxipng_bg.wasm.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/oxipng/pkg-parallel/squoosh_oxipng.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/oxipng/pkg-parallel/squoosh_oxipng.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/oxipng/pkg-parallel/squoosh_oxipng_bg.wasm.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/oxipng/pkg-parallel/snippets/wasm-bindgen-rayon-3d2df09ebec17a22/src/workerHelpers.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/png/pkg/squoosh_png.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/png/pkg/squoosh_png.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/png/pkg/squoosh_png_bg.wasm.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/resize/pkg/squoosh_resize.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/resize/pkg/squoosh_resize.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/resize/pkg/squoosh_resize_bg.wasm.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/rotate/benchmark.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/visdif/visdif.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/dec/webp_dec.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/dec/webp_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/dec/webp_node_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/enc/webp_enc.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/enc/webp_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/enc/webp_enc_simd.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/enc/webp_enc_simd.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/webp/enc/webp_node_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/dec/wp2_dec.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/dec/wp2_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/dec/wp2_node_dec.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc_mt.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc_mt.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc_mt.worker.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc_mt_simd.d.ts",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc_mt_simd.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_enc_mt_simd.worker.js",
+  "/home/fqye/projects/zhituji/squoosh/codecs/wp2/enc/wp2_node_enc.js"
+ ],
+ "options": {
+  "target": 6,
+  "downlevelIteration": true,
+  "module": 99,
+  "jsx": 2,
+  "jsxFactory": "h",
+  "strict": true,
+  "moduleResolution": 2,
+  "composite": true,
+  "declarationMap": true,
+  "baseUrl": "/home/fqye/projects/zhituji/squoosh",
+  "rootDir": "/home/fqye/projects/zhituji/squoosh",
+  "outDir": "/home/fqye/projects/zhituji/squoosh/.tmp/ts",
+  "allowSyntheticDefaultImports": true,
+  "paths": {
+   "static-build/*": [
+    "src/static-build/*"
+   ],
+   "client/*": [
+    "src/client/*"
+   ],
+   "shared/*": [
+    "src/shared/*"
+   ],
+   "features/*": [
+    "src/features/*"
+   ]
+  },
+  "pathsBasePath": "/home/fqye/projects/zhituji/squoosh",
+  "lib": [
+   "lib.esnext.d.ts"
+  ],
+  "types": [
+   "node"
+  ],
+  "allowJs": true,
+  "configFilePath": "/home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json"
+ }
+}
+Info 1740 [09:58:10.986] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1741 [09:58:12.088] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 1 structureChanged: true Elapsed: 1101.5968549847603ms
+Info 1742 [09:58:12.088] Project '/home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json' (Configured)
+Info 1743 [09:58:12.088] 	Files (165)
+
+Info 1744 [09:58:12.088] -----------------------------------------------
+Info 1745 [09:58:12.091] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject2*
+Info 1746 [09:58:12.176] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject2* Version: 1 structureChanged: true Elapsed: 84.7291259765625ms
+Info 1747 [09:58:12.176] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 1748 [09:58:12.176] 	Files (1)
+
+Info 1749 [09:58:12.176] -----------------------------------------------
+Info 1750 [09:58:12.179] Search path: /home/fqye/projects/zhituji/squoosh/libsquoosh
+Info 1751 [09:58:12.179] For info: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1752 [09:58:12.179] Search path: /home/fqye/projects/zhituji/squoosh
+Info 1753 [09:58:12.179] For info: /home/fqye/projects/zhituji/squoosh/tsconfig.json :: No config files found.
+Info 1754 [09:58:19.707] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1755 [09:58:19.727] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 2 structureChanged: false Elapsed: 20.356054961681366ms
+Info 1756 [09:58:19.727] Different program with same set of files:: structureIsReused:: 2
+Info 1757 [09:58:19.979] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1758 [09:58:19.990] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 3 structureChanged: false Elapsed: 10.181482970714569ms
+Info 1759 [09:58:19.990] Different program with same set of files:: structureIsReused:: 2
+Info 1760 [09:58:20.713] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1761 [09:58:20.735] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 4 structureChanged: false Elapsed: 20.940218031406403ms
+Info 1762 [09:58:20.735] Different program with same set of files:: structureIsReused:: 2
+Info 1763 [09:58:20.976] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1764 [09:58:20.997] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 5 structureChanged: false Elapsed: 21.264262974262238ms
+Info 1765 [09:58:20.997] Different program with same set of files:: structureIsReused:: 2
+Info 1766 [09:58:21.556] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1767 [09:58:21.571] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 6 structureChanged: false Elapsed: 15.011617004871368ms
+Info 1768 [09:58:21.571] Different program with same set of files:: structureIsReused:: 2
+Info 1769 [09:58:22.222] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1770 [09:58:22.242] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 7 structureChanged: false Elapsed: 19.568422973155975ms
+Info 1771 [09:58:22.242] Different program with same set of files:: structureIsReused:: 2
+Info 1772 [09:58:22.481] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1773 [09:58:22.496] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 8 structureChanged: false Elapsed: 14.715954005718231ms
+Info 1774 [09:58:22.496] Different program with same set of files:: structureIsReused:: 2
+Info 1775 [09:58:23.836] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1776 [09:58:23.855] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 9 structureChanged: false Elapsed: 18.628623008728027ms
+Info 1777 [09:58:23.855] Different program with same set of files:: structureIsReused:: 2
+Info 1778 [09:58:24.089] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1779 [09:58:24.102] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 10 structureChanged: false Elapsed: 13.31166398525238ms
+Info 1780 [09:58:24.102] Different program with same set of files:: structureIsReused:: 2
+Info 1781 [09:58:25.877] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1782 [09:58:25.898] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 11 structureChanged: false Elapsed: 21.08528196811676ms
+Info 1783 [09:58:25.898] Different program with same set of files:: structureIsReused:: 2
+Info 1784 [09:58:26.119] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1785 [09:58:26.134] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 12 structureChanged: false Elapsed: 14.247716009616852ms
+Info 1786 [09:58:26.134] Different program with same set of files:: structureIsReused:: 2
+Info 1787 [09:58:28.194] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1788 [09:58:28.212] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 13 structureChanged: false Elapsed: 17.39791601896286ms
+Info 1789 [09:58:28.212] Different program with same set of files:: structureIsReused:: 2
+Info 1790 [09:58:29.413] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1791 [09:58:29.428] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 14 structureChanged: false Elapsed: 15.347889006137848ms
+Info 1792 [09:58:29.429] Different program with same set of files:: structureIsReused:: 2
+Info 1793 [09:58:31.762] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json
+Info 1794 [09:58:31.773] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/libsquoosh/tsconfig.json Version: 15 structureChanged: false Elapsed: 11.116698026657104ms
+Info 1795 [09:58:31.773] Different program with same set of files:: structureIsReused:: 2
+Info 1796 [09:59:12.825] Search path: /home/fqye/projects/zhituji/squoosh/src/features/encoders/mozJPEG/shared
+Info 1797 [09:59:12.825] For info: /home/fqye/projects/zhituji/squoosh/src/features/encoders/mozJPEG/shared/meta.ts :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1798 [09:59:12.825] Creating configuration project /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1799 [09:59:12.842] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1800 [09:59:13.557] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 1 structureChanged: true Elapsed: 714.4098010063171ms
+Info 1801 [09:59:13.557] Project '/home/fqye/projects/zhituji/squoosh/worker-tsconfig.json' (Configured)
+Info 1802 [09:59:13.557] 	Files (169)
+
+Info 1803 [09:59:13.557] -----------------------------------------------
+Info 1804 [09:59:13.560] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject3*
+Info 1805 [09:59:13.561] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject3* Version: 1 structureChanged: true Elapsed: 0.9392200112342834ms
+Info 1806 [09:59:13.561] Project '/dev/null/autoImportProviderProject3*' (AutoImportProvider)
+Info 1807 [09:59:13.561] 	Files (1)
+
+Info 1808 [09:59:13.561] -----------------------------------------------
+Info 1809 [09:59:16.501] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1810 [09:59:16.514] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 2 structureChanged: false Elapsed: 13.258805990219116ms
+Info 1811 [09:59:16.514] Different program with same set of files:: structureIsReused:: 2
+Info 1812 [09:59:16.984] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1813 [09:59:16.990] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 3 structureChanged: false Elapsed: 5.321533024311066ms
+Info 1814 [09:59:16.990] Different program with same set of files:: structureIsReused:: 2
+Info 1815 [09:59:17.278] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1816 [09:59:17.293] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 4 structureChanged: false Elapsed: 14.842702984809875ms
+Info 1817 [09:59:17.293] Different program with same set of files:: structureIsReused:: 2
+Info 1818 [09:59:18.398] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1819 [09:59:18.412] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 5 structureChanged: false Elapsed: 13.53777301311493ms
+Info 1820 [09:59:18.412] Different program with same set of files:: structureIsReused:: 2
+Info 1821 [09:59:19.743] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1822 [09:59:19.757] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 6 structureChanged: false Elapsed: 13.947668015956879ms
+Info 1823 [09:59:19.757] Different program with same set of files:: structureIsReused:: 2
+Info 1824 [09:59:19.758] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1825 [09:59:19.770] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 7 structureChanged: false Elapsed: 12.024073004722595ms
+Info 1826 [09:59:19.771] Different program with same set of files:: structureIsReused:: 2
+Info 1827 [09:59:21.569] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1828 [09:59:21.574] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 8 structureChanged: false Elapsed: 5.005585014820099ms
+Info 1829 [09:59:21.574] Different program with same set of files:: structureIsReused:: 2
+Info 1830 [09:59:23.832] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1831 [09:59:23.842] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 9 structureChanged: false Elapsed: 9.927396953105927ms
+Info 1832 [09:59:23.842] Different program with same set of files:: structureIsReused:: 2
+Info 1833 [09:59:52.422] Search path: /home/fqye/projects/zhituji/squoosh/src/features/encoders/oxiPNG/shared
+Info 1834 [09:59:52.422] For info: /home/fqye/projects/zhituji/squoosh/src/features/encoders/oxiPNG/shared/meta.ts :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1835 [09:59:56.534] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1836 [09:59:56.547] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 10 structureChanged: false Elapsed: 13.129302978515625ms
+Info 1837 [09:59:56.547] Different program with same set of files:: structureIsReused:: 2
+Info 1838 [09:59:57.160] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1839 [09:59:57.179] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 11 structureChanged: false Elapsed: 19.535777032375336ms
+Info 1840 [09:59:57.179] Different program with same set of files:: structureIsReused:: 2
+Info 1841 [09:59:59.321] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1842 [09:59:59.332] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 12 structureChanged: false Elapsed: 11.19999098777771ms
+Info 1843 [09:59:59.332] Different program with same set of files:: structureIsReused:: 2
+Info 1844 [10:00:00.358] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1845 [10:00:00.375] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 13 structureChanged: false Elapsed: 16.98514598608017ms
+Info 1846 [10:00:00.375] Different program with same set of files:: structureIsReused:: 2
+Info 1847 [10:00:38.818] Search path: /home/fqye/projects/zhituji/squoosh/src/features/encoders/browserJPEG/shared
+Info 1848 [10:00:38.822] For info: /home/fqye/projects/zhituji/squoosh/src/features/encoders/browserJPEG/shared/meta.ts :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1849 [10:00:42.999] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1850 [10:00:43.011] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 14 structureChanged: false Elapsed: 12.027040004730225ms
+Info 1851 [10:00:43.011] Different program with same set of files:: structureIsReused:: 2
+Info 1852 [10:00:43.410] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1853 [10:00:43.429] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 15 structureChanged: false Elapsed: 17.973092019557953ms
+Info 1854 [10:00:43.429] Different program with same set of files:: structureIsReused:: 2
+Info 1855 [10:00:43.638] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1856 [10:00:43.646] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 16 structureChanged: false Elapsed: 8.429305016994476ms
+Info 1857 [10:00:43.646] Different program with same set of files:: structureIsReused:: 2
+Info 1858 [10:00:43.944] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1859 [10:00:43.960] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 17 structureChanged: false Elapsed: 16.003782987594604ms
+Info 1860 [10:00:43.960] Different program with same set of files:: structureIsReused:: 2
+Info 1861 [10:00:46.791] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1862 [10:00:46.809] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 18 structureChanged: false Elapsed: 18.13408899307251ms
+Info 1863 [10:00:46.809] Different program with same set of files:: structureIsReused:: 2
+Info 1864 [10:00:48.817] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1865 [10:00:48.831] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 19 structureChanged: false Elapsed: 13.84136301279068ms
+Info 1866 [10:00:48.831] Different program with same set of files:: structureIsReused:: 2
+Info 1867 [10:01:03.527] Search path: /home/fqye/projects/zhituji/squoosh/src/features/encoders/browserPNG/shared
+Info 1868 [10:01:03.528] For info: /home/fqye/projects/zhituji/squoosh/src/features/encoders/browserPNG/shared/meta.ts :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1869 [10:01:07.563] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1870 [10:01:07.579] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 20 structureChanged: false Elapsed: 15.930072009563446ms
+Info 1871 [10:01:07.579] Different program with same set of files:: structureIsReused:: 2
+Info 1872 [10:01:08.103] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1873 [10:01:08.115] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 21 structureChanged: false Elapsed: 11.182539999485016ms
+Info 1874 [10:01:08.115] Different program with same set of files:: structureIsReused:: 2
+Info 1875 [10:01:10.298] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1876 [10:01:10.315] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 22 structureChanged: false Elapsed: 17.395178020000458ms
+Info 1877 [10:01:10.315] Different program with same set of files:: structureIsReused:: 2
+Info 1878 [10:01:14.998] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1879 [10:01:15.005] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 23 structureChanged: false Elapsed: 7.231054961681366ms
+Info 1880 [10:01:15.005] Different program with same set of files:: structureIsReused:: 2
+Info 1881 [10:01:25.322] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1882 [10:01:25.336] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 24 structureChanged: false Elapsed: 14.137744963169098ms
+Info 1883 [10:01:25.336] Different program with same set of files:: structureIsReused:: 2
+Info 1884 [10:01:27.025] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json
+Info 1885 [10:01:27.038] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/worker-tsconfig.json Version: 25 structureChanged: false Elapsed: 13.854465007781982ms
+Info 1886 [10:01:27.039] Different program with same set of files:: structureIsReused:: 2
+Info 1887 [10:02:10.724] Search path: /home/fqye/projects/zhituji/squoosh/src/client/initial-app
+Info 1888 [10:02:10.725] For info: /home/fqye/projects/zhituji/squoosh/src/client/initial-app/index.tsx :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1889 [10:02:10.726] Creating configuration project /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1890 [10:02:10.736] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1891 [10:02:11.303] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 1 structureChanged: true Elapsed: 567.6436840295792ms
+Info 1892 [10:02:11.303] Project '/home/fqye/projects/zhituji/squoosh/client-tsconfig.json' (Configured)
+Info 1893 [10:02:11.303] 	Files (203)
+
+Info 1894 [10:02:11.303] -----------------------------------------------
+Info 1895 [10:02:11.307] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject4*
+Info 1896 [10:02:11.308] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject4* Version: 1 structureChanged: true Elapsed: 0.9488850235939026ms
+Info 1897 [10:02:11.308] Project '/dev/null/autoImportProviderProject4*' (AutoImportProvider)
+Info 1898 [10:02:11.308] 	Files (1)
+
+Info 1899 [10:02:11.308] -----------------------------------------------
+Info 1900 [10:02:43.380] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1901 [10:02:43.403] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 2 structureChanged: true Elapsed: 22.86446499824524ms
+Info 1902 [10:02:43.403] Different program with same set of files:: structureIsReused:: 1
+Info 1903 [10:02:47.859] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1904 [10:02:47.875] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 3 structureChanged: false Elapsed: 16.066345989704132ms
+Info 1905 [10:02:47.875] Different program with same set of files:: structureIsReused:: 2
+Info 1906 [10:03:00.979] Search path: /home/fqye/projects/zhituji/squoosh/src/client/initial-app/App
+Info 1907 [10:03:00.980] For info: /home/fqye/projects/zhituji/squoosh/src/client/initial-app/App/index.tsx :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1908 [10:05:48.803] Search path: /home/fqye/projects/zhituji/squoosh/src/client/lazy-app/Compress
+Info 1909 [10:05:48.803] For info: /home/fqye/projects/zhituji/squoosh/src/client/lazy-app/Compress/index.tsx :: Config file name: /home/fqye/projects/zhituji/squoosh/tsconfig.json
+Info 1910 [10:10:36.178] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1911 [10:10:36.194] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 196 structureChanged: false Elapsed: 16.345873057842255ms
+Info 1912 [10:10:36.195] Different program with same set of files:: structureIsReused:: 2
+Info 1913 [10:10:36.302] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1914 [10:10:36.322] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 4 structureChanged: false Elapsed: 19.58715796470642ms
+Info 1915 [10:10:36.322] Different program with same set of files:: structureIsReused:: 2
+Info 1916 [10:10:36.956] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1917 [10:10:36.971] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 197 structureChanged: false Elapsed: 15.235177993774414ms
+Info 1918 [10:10:36.971] Different program with same set of files:: structureIsReused:: 2
+Info 1919 [10:10:37.266] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1920 [10:10:37.274] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 198 structureChanged: false Elapsed: 7.826798975467682ms
+Info 1921 [10:10:37.274] Different program with same set of files:: structureIsReused:: 2
+Info 1922 [10:10:37.452] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1923 [10:10:37.463] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 5 structureChanged: false Elapsed: 10.508993029594421ms
+Info 1924 [10:10:37.463] Different program with same set of files:: structureIsReused:: 2
+Info 1925 [10:10:39.214] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1926 [10:10:39.223] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 199 structureChanged: false Elapsed: 9.275547981262207ms
+Info 1927 [10:10:39.223] Different program with same set of files:: structureIsReused:: 2
+Info 1928 [10:10:39.309] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1929 [10:10:39.317] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 6 structureChanged: false Elapsed: 8.045428991317749ms
+Info 1930 [10:10:39.318] Different program with same set of files:: structureIsReused:: 2
+Info 1931 [10:10:39.877] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1932 [10:10:39.886] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 200 structureChanged: false Elapsed: 9.210407018661499ms
+Info 1933 [10:10:39.886] Different program with same set of files:: structureIsReused:: 2
+Info 1934 [10:10:39.954] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1935 [10:10:39.966] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 7 structureChanged: false Elapsed: 12.596069991588593ms
+Info 1936 [10:10:39.967] Different program with same set of files:: structureIsReused:: 2
+Info 1937 [10:10:44.367] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1938 [10:10:44.376] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 201 structureChanged: false Elapsed: 8.66590303182602ms
+Info 1939 [10:10:44.376] Different program with same set of files:: structureIsReused:: 2
+Info 1940 [10:10:44.654] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1941 [10:10:44.668] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 8 structureChanged: false Elapsed: 13.792318999767303ms
+Info 1942 [10:10:44.668] Different program with same set of files:: structureIsReused:: 2
+Info 1943 [10:10:45.615] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json
+Info 1944 [10:10:45.630] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/static-build-tsconfig.json Version: 202 structureChanged: false Elapsed: 14.5209019780159ms
+Info 1945 [10:10:45.630] Different program with same set of files:: structureIsReused:: 2
+Info 1946 [10:10:45.700] Starting updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json
+Info 1947 [10:10:45.708] Finishing updateGraphWorker: Project: /home/fqye/projects/zhituji/squoosh/client-tsconfig.json Version: 9 structureChanged: false Elapsed: 7.6224769949913025ms
+Info 1948 [10:10:45.708] Different program with same set of files:: structureIsReused:: 2

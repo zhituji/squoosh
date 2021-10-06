@@ -213,10 +213,7 @@ export default class Intro extends Component<Props, State> {
             fontSize: '1.4em',
           }}
         >
-          制图机单图片处理引擎无需登录，不上传图片到服务器，请放心使用
-          <p style={{ fontSize: '0.8em', mb: 0, pb: 0 }}>
-            单图片处理引擎提供智能压缩、尺寸调整与格式转换功能，如需更多处理功能，请登录或注册帐号后使用
-          </p>
+          制图机单图片处理引擎
         </div>
 
         <div class={style.main}>
@@ -261,16 +258,18 @@ export default class Intro extends Component<Props, State> {
                   <path d="M19 7v3h-2V7h-3V5h3V2h2v3h3v2h-3zm-3 4V8h-3V5H5a2 2 0 00-2 2v12c0 1.1.9 2 2 2h12a2 2 0 002-2v-8h-3zM5 19l3-4 2 3 3-4 4 5H5z" />
                 </svg>
               </button>
-              <div>
-                <span class={style.dropText}>拖拽 </span>或{' '}
-                {supportsClipboardAPI ? (
-                  <button class={style.pasteBtn} onClick={this.onPasteClick}>
-                    粘帖
-                  </button>
-                ) : (
-                  '粘帖'
-                )}
-              </div>
+              {
+                // <div>
+                //   <span class={style.dropText}>拖拽 </span>或{' '}
+                //   {supportsClipboardAPI ? (
+                //     <button class={style.pasteBtn} onClick={this.onPasteClick}>
+                //       粘帖
+                //     </button>
+                //   ) : (
+                //     '粘帖'
+                //   )}
+                //   </div>
+              }
             </div>
           </div>
         </div>

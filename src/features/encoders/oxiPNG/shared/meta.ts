@@ -15,7 +15,7 @@ export interface EncodeOptions {
   interlace: boolean;
 }
 
-export const label = 'OxiPNG';
+export const label = 'PNG - OxiPNG压缩算法';
 export const mimeType = 'image/png';
 export const extension = 'png';
 
