@@ -16,7 +16,7 @@ import {
 } from 'codecs/mozjpeg/enc/mozjpeg_enc';
 export { EncodeOptions, MozJpegColorSpace };
 
-export const label = 'JPG - Moz压缩算法';
+export const label = 'JPEG - Moz压缩算法';
 export const mimeType = 'image/jpeg';
 export const extension = 'jpg';
 export const defaultOptions: EncodeOptions = {
