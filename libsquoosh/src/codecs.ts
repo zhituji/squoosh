@@ -244,7 +244,7 @@ export const preprocessors = {
   },
   rotate: {
     name: 'Rotate',
-    description: 'Rotate image',
+    description: '旋转图片',
     instantiate: async () => {
       return async (
         buffer: Uint8Array,

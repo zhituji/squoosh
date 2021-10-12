@@ -123,7 +123,7 @@ export default class Results extends Component<Props, State> {
           class={showLoadingState ? style.downloadDisable : style.download}
           href={downloadUrl}
           download={imageFile ? imageFile.name : ''}
-          title="Download"
+          title="下载"
           onClick={this.onDownload}
         >
           <svg class={style.downloadBlobs} viewBox="0 0 89.6 86.9">

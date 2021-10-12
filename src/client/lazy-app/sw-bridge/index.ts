@@ -68,7 +68,7 @@ export async function offliner(showSnack: SnackBarElement['showSnackbar']) {
   navigator.serviceWorker.addEventListener('controllerchange', async () => {
     // Is it the first install?
     if (!hasController) {
-      showSnack('Ready to work offline', { timeout: 5000 });
+      showSnack('可离线工作', { timeout: 5000 });
       return;
     }
 
@@ -87,8 +87,8 @@ export async function offliner(showSnack: SnackBarElement['showSnackbar']) {
   await updateReady(reg);
 
   // Ask the user if they want to update.
-  const result = await showSnack('Update available', {
-    actions: ['reload', 'dismiss'],
+  const result = await showSnack('软件已更新', {
+    actions: ['加载', '取消'],
   });
 
   // Tell the waiting worker to activate, this will change the controller and cause a reload (see

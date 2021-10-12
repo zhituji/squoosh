@@ -40,24 +40,23 @@ type PartialButNotUndefined<T> = {
   [P in keyof T]: T[P];
 };
 
-const supportedEncoderMapP: Promise<
-  PartialButNotUndefined<typeof encoderMap>
-> = (async () => {
-  const supportedEncoderMap: PartialButNotUndefined<typeof encoderMap> = {
-    ...encoderMap,
-  };
+const supportedEncoderMapP: Promise<PartialButNotUndefined<typeof encoderMap>> =
+  (async () => {
+    const supportedEncoderMap: PartialButNotUndefined<typeof encoderMap> = {
+      ...encoderMap,
+    };
 
-  // Filter out entries where the feature test fails
-  await Promise.all(
-    Object.entries(encoderMap).map(async ([encoderName, details]) => {
-      if ('featureTest' in details && !(await details.featureTest())) {
-        delete supportedEncoderMap[encoderName as keyof typeof encoderMap];
-      }
-    }),
-  );
+    // Filter out entries where the feature test fails
+    await Promise.all(
+      Object.entries(encoderMap).map(async ([encoderName, details]) => {
+        if ('featureTest' in details && !(await details.featureTest())) {
+          delete supportedEncoderMap[encoderName as keyof typeof encoderMap];
+        }
+      }),
+    );
 
-  return supportedEncoderMap;
-})();
+    return supportedEncoderMap;
+  })();
 
 export default class Options extends Component<Props, State> {
   state: State = {
@@ -109,6 +108,7 @@ export default class Options extends Component<Props, State> {
   };
 
   private onCopyCliClick = () => {
+    console.log('%%%%%%%%%%', this.props);
     this.props.onCopyCliClick(this.props.index);
   };
 
@@ -138,16 +138,18 @@ export default class Options extends Component<Props, State> {
               <h3 class={style.optionsTitle}>
                 <div class={style.titleAndButtons}>
                   编辑
-                  <button
-                    class={style.cliButton}
-                    title="Copy npx command"
-                    onClick={this.onCopyCliClick}
-                  >
-                    <CLIIcon />
-                  </button>
+                  {
+                    // <button
+                    //   class={style.cliButton}
+                    //   title="Copy npx command"
+                    //   onClick={this.onCopyCliClick}
+                    // >
+                    //   <CLIIcon />
+                    // </button>
+                  }
                   <button
                     class={style.copyOverButton}
-                    title="Copy settings to other side"
+                    title="将配置参数拷贝到另外一侧"
                     onClick={this.onCopyToOtherSideClick}
                   >
                     <SwapIcon />
